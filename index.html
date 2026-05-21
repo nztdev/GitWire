@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,7 +7,6 @@
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <title>GitWire | nzdev</title>
-  <link rel="icon" type="image/png" href="https://radiopumpo.github.io/radiopumpologo.png">
   <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Space+Mono:ital,wght@0,400;0,700;1,400&family=Rajdhani:wght@400;600;700&display=swap" rel="stylesheet">
   <style>
     :root {
@@ -69,6 +69,328 @@
     .view { display: none; }
     .view.active { display: block; }
     @keyframes fadeUp { from { opacity:0; transform:translateY(10px); } to { opacity:1; transform:translateY(0); } }
+
+    /* ══════════════════════════════════════
+       INTRO SLIDES
+    ══════════════════════════════════════ */
+    #view-intro {
+      min-height: 100vh;
+      display: none;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+      overflow: hidden;
+      padding-top: env(safe-area-inset-top);
+    }
+    #view-intro.active { display: flex; }
+
+    #intro-pulse-canvas {
+      position: absolute; inset: 0;
+      width: 100%; height: 100%;
+      opacity: .13;
+      pointer-events: none;
+    }
+
+    .intro-skip {
+      position: absolute;
+      top: 60px; right: 20px;
+      font-family: var(--mono);
+      font-size: 9px; letter-spacing: .18em;
+      text-transform: uppercase;
+      color: var(--muted);
+      background: none; border: none;
+      cursor: pointer;
+      padding: 6px 10px;
+      transition: color .2s;
+      z-index: 10;
+    }
+    .intro-skip:hover { color: var(--green); }
+
+    .slides-container {
+      position: relative; z-index: 2;
+      width: 100%; max-width: 600px;
+      padding: 0 1.5rem;
+      text-align: center;
+    }
+
+    .slide {
+      display: none;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      animation: fadeUp .55s ease-out forwards;
+    }
+    .slide.active { display: flex; }
+
+    .slide-eyebrow {
+      font-family: var(--mono);
+      font-size: 9px; letter-spacing: .28em;
+      text-transform: uppercase;
+      color: var(--green);
+      margin-bottom: 1.6rem;
+    }
+
+    .slide-headline {
+      font-family: var(--serif);
+      font-size: clamp(30px, 7vw, 54px);
+      line-height: 1.05;
+      letter-spacing: -.02em;
+      color: var(--text);
+      margin-bottom: 1.2rem;
+    }
+    .slide-headline em { color: var(--green); font-style: italic; }
+
+    .slide-body {
+      font-family: var(--mono);
+      font-size: 11px;
+      line-height: 1.85;
+      color: var(--muted);
+      max-width: 420px;
+      letter-spacing: .03em;
+    }
+
+    /* Slide 2 — data pills */
+    .slide-pills {
+      display: flex; flex-wrap: wrap;
+      gap: 8px; justify-content: center;
+      margin: 1.4rem 0;
+    }
+    .slide-pill {
+      font-family: var(--mono); font-size: 9px;
+      letter-spacing: .12em; text-transform: uppercase;
+      border: 1px solid var(--border2);
+      border-radius: 20px;
+      padding: 5px 14px;
+      color: var(--muted);
+    }
+    .slide-pill.lit { border-color: var(--green); color: var(--green); }
+
+    /* Slide 3 — mode preview cards */
+    .slide-modes {
+      display: flex; gap: 10px;
+      margin: 1.4rem 0;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .slide-mode-card {
+      border: 1px solid var(--border2);
+      border-radius: 10px;
+      padding: .9rem 1.1rem;
+      text-align: left;
+      flex: 1; min-width: 150px; max-width: 190px;
+      background: var(--bg2);
+    }
+    .slide-mode-card.primary { border-color: var(--green); }
+    .slide-mode-card-label {
+      font-family: var(--mono); font-size: 8px;
+      letter-spacing: .18em; text-transform: uppercase;
+      color: var(--green); margin-bottom: .5rem;
+    }
+    .slide-mode-card.secondary .slide-mode-card-label { color: var(--muted); }
+    .slide-mode-card-title {
+      font-family: var(--serif); font-size: 15px;
+      color: var(--text); margin-bottom: .3rem;
+    }
+    .slide-mode-card-sub {
+      font-family: var(--mono); font-size: 9px;
+      color: var(--dimmed); line-height: 1.6;
+    }
+
+    /* Dots + nav */
+    .intro-nav {
+      position: absolute;
+      bottom: 40px; left: 0; right: 0;
+      display: flex; align-items: center;
+      justify-content: center; gap: 20px;
+      z-index: 10;
+    }
+    .intro-dots {
+      display: flex; gap: 7px; align-items: center;
+    }
+    .intro-dot {
+      width: 5px; height: 5px;
+      border-radius: 50%;
+      background: var(--dimmed);
+      transition: all .25s;
+      cursor: pointer;
+    }
+    .intro-dot.active {
+      background: var(--green);
+      width: 18px; border-radius: 3px;
+    }
+    .intro-arrow {
+      background: none; border: 1px solid var(--border2);
+      color: var(--muted);
+      font-family: var(--mono); font-size: 10px;
+      width: 30px; height: 30px;
+      border-radius: 50%;
+      cursor: pointer;
+      display: flex; align-items: center; justify-content: center;
+      transition: .2s;
+      padding: 0;
+    }
+    .intro-arrow:hover { border-color: var(--green); color: var(--green); }
+    .intro-arrow:disabled { opacity: .25; pointer-events: none; }
+
+    /* ══════════════════════════════════════
+       CHOICE SCREEN
+    ══════════════════════════════════════ */
+    #view-choice {
+      min-height: 100vh;
+      display: none;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 80px 1.5rem 3rem;
+      position: relative;
+      overflow: hidden;
+    }
+    #view-choice.active { display: flex; }
+
+    #choice-pulse-canvas {
+      position: absolute; inset: 0;
+      width: 100%; height: 100%;
+      opacity: .10;
+      pointer-events: none;
+    }
+
+    .choice-inner {
+      position: relative; z-index: 2;
+      width: 100%; max-width: 520px;
+      text-align: center;
+      animation: fadeUp .55s ease-out forwards;
+    }
+
+    .choice-masthead {
+      font-family: var(--serif);
+      font-size: clamp(38px, 8vw, 64px);
+      line-height: .95;
+      letter-spacing: -.02em;
+      margin-bottom: .3rem;
+    }
+    .choice-masthead .git { color: var(--green); }
+
+    .choice-strap {
+      font-family: var(--mono);
+      font-size: 10px; letter-spacing: .15em;
+      text-transform: uppercase;
+      color: var(--muted);
+      margin-bottom: 2.8rem;
+    }
+
+    .choice-divider {
+      width: 1px; height: 36px;
+      background: var(--border2);
+      margin: 0 auto 2.8rem;
+    }
+
+    .choice-buttons {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      width: 100%;
+    }
+
+    /* Primary — weekly */
+    .choice-btn-primary {
+      background: var(--green);
+      color: var(--bg);
+      border: none;
+      border-radius: 10px;
+      padding: 1.4rem 1.8rem;
+      cursor: pointer;
+      text-align: left;
+      transition: all .22s;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+    }
+    .choice-btn-primary:hover {
+      box-shadow: 0 0 40px var(--green-glow);
+      transform: translateY(-2px);
+    }
+    .choice-btn-primary:disabled {
+      opacity: .4; cursor: not-allowed;
+      transform: none; box-shadow: none;
+    }
+    .choice-btn-label {
+      font-family: var(--mono);
+      font-size: 8px; letter-spacing: .2em;
+      text-transform: uppercase;
+      margin-bottom: .3rem;
+      opacity: .75;
+    }
+    .choice-btn-title {
+      font-family: var(--serif);
+      font-size: 20px;
+      line-height: 1.1;
+    }
+    .choice-btn-sub {
+      font-family: var(--mono);
+      font-size: 9px;
+      opacity: .65;
+      margin-top: .25rem;
+      letter-spacing: .05em;
+    }
+    .choice-btn-arrow {
+      font-size: 20px;
+      flex-shrink: 0;
+      opacity: .8;
+    }
+
+    /* Weekly freshness badge */
+    .weekly-meta {
+      display: flex; align-items: center;
+      gap: 6px; margin-top: .3rem;
+    }
+    .weekly-dot {
+      width: 5px; height: 5px;
+      border-radius: 50%;
+      background: var(--bg);
+      opacity: .7;
+      flex-shrink: 0;
+    }
+    .weekly-dot.fresh { opacity: 1; }
+    .weekly-age {
+      font-family: var(--mono);
+      font-size: 8px;
+      opacity: .65;
+      letter-spacing: .05em;
+    }
+
+    /* Secondary — on demand */
+    .choice-btn-secondary {
+      background: transparent;
+      color: var(--text);
+      border: 1px solid var(--border2);
+      border-radius: 10px;
+      padding: 1.2rem 1.8rem;
+      cursor: pointer;
+      text-align: left;
+      transition: all .22s;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+    }
+    .choice-btn-secondary:hover {
+      border-color: var(--muted);
+      transform: translateY(-1px);
+    }
+    .choice-btn-secondary .choice-btn-label { color: var(--muted); }
+    .choice-btn-secondary .choice-btn-title { font-size: 18px; }
+    .choice-btn-secondary .choice-btn-arrow { color: var(--muted); font-size: 18px; }
+
+    .choice-footnote {
+      font-family: var(--mono);
+      font-size: 9px;
+      color: var(--dimmed);
+      margin-top: 1.4rem;
+      letter-spacing: .05em;
+      line-height: 1.7;
+    }
 
     /* ══════════════════════════════════════
        COVER
@@ -339,8 +661,119 @@
     </div>
   </nav>
 
-  <!-- ── COVER ── -->
-  <div class="view active" id="view-cover">
+  <!-- ── INTRO SLIDES ── -->
+  <div class="view active" id="view-intro">
+    <canvas id="intro-pulse-canvas"></canvas>
+    <button class="intro-skip" id="intro-skip-btn" onclick="goToChoice()" style="display:none">SKIP INTRO ×</button>
+
+    <div class="slides-container">
+
+      <!-- SLIDE 1 — What it is -->
+      <div class="slide active" id="slide-0">
+        <div class="slide-eyebrow">Intelligence Briefing</div>
+        <div class="slide-headline">GitHub,<br><em>edited.</em></div>
+        <div class="slide-body">
+          Thousands of repositories appear on GitHub every week.<br>
+          Most are noise. A few will matter.<br>
+          GitWire finds them.
+        </div>
+      </div>
+
+      <!-- SLIDE 2 — How it works -->
+      <div class="slide" id="slide-1">
+        <div class="slide-eyebrow">How it works</div>
+        <div class="slide-headline">Signal<br>from the<br><em>feed.</em></div>
+        <div class="slide-pills">
+          <span class="slide-pill lit">Trending repos</span>
+          <span class="slide-pill lit">Star velocity</span>
+          <span class="slide-pill">Resurrection picks</span>
+          <span class="slide-pill">Technical analysis</span>
+          <span class="slide-pill lit">Editorial curation</span>
+          <span class="slide-pill">By the numbers</span>
+        </div>
+        <div class="slide-body">
+          GitHub Search API feeds raw data.<br>
+          AI editorial turns it into a briefing worth reading.
+        </div>
+      </div>
+
+      <!-- SLIDE 3 — Two modes -->
+      <div class="slide" id="slide-2">
+        <div class="slide-eyebrow">Two ways to read</div>
+        <div class="slide-headline">Your<br><em>choice.</em></div>
+        <div class="slide-modes">
+          <div class="slide-mode-card primary">
+            <div class="slide-mode-card-label">● Weekly</div>
+            <div class="slide-mode-card-title">Pre-built edition</div>
+            <div class="slide-mode-card-sub">No keys needed.<br>Ready now.</div>
+          </div>
+          <div class="slide-mode-card secondary">
+            <div class="slide-mode-card-label">◎ On demand</div>
+            <div class="slide-mode-card-title">Generate live</div>
+            <div class="slide-mode-card-sub">Your API key.<br>Fresh on request.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /slides-container -->
+
+    <!-- Nav -->
+    <div class="intro-nav">
+      <button class="intro-arrow" id="intro-prev" onclick="slideNav(-1)" disabled>‹</button>
+      <div class="intro-dots">
+        <div class="intro-dot active" onclick="goSlide(0)"></div>
+        <div class="intro-dot" onclick="goSlide(1)"></div>
+        <div class="intro-dot" onclick="goSlide(2)"></div>
+      </div>
+      <button class="intro-arrow" id="intro-next" onclick="slideNav(1)">›</button>
+    </div>
+  </div><!-- /view-intro -->
+
+  <!-- ── CHOICE ── -->
+  <div class="view" id="view-choice">
+    <canvas id="choice-pulse-canvas"></canvas>
+    <div class="choice-inner">
+
+      <div class="choice-masthead"><span class="git">Git</span>Wire</div>
+      <div class="choice-strap">The weekly GitHub intelligence briefing</div>
+      <div class="choice-divider"></div>
+
+      <div class="choice-buttons">
+
+        <!-- PRIMARY: weekly -->
+        <button class="choice-btn-primary" id="weekly-btn" onclick="loadWeeklyEdition()">
+          <div>
+            <div class="choice-btn-label">● Pre-built edition</div>
+            <div class="choice-btn-title">Read this week's GitWire</div>
+            <div class="weekly-meta">
+              <div class="weekly-dot" id="weekly-freshness-dot"></div>
+              <div class="weekly-age" id="weekly-age-label">Checking...</div>
+            </div>
+          </div>
+          <div class="choice-btn-arrow">→</div>
+        </button>
+
+        <!-- SECONDARY: on demand -->
+        <button class="choice-btn-secondary" onclick="showView('cover')">
+          <div>
+            <div class="choice-btn-label">◎ On demand</div>
+            <div class="choice-btn-title">Generate your own edition</div>
+            <div class="choice-btn-sub">Requires Gemini API key</div>
+          </div>
+          <div class="choice-btn-arrow">→</div>
+        </button>
+
+      </div>
+
+      <div class="choice-footnote" id="choice-footnote">
+        Weekly edition updated automatically every Monday.<br>
+        On-demand uses live GitHub data and your own AI key.
+      </div>
+    </div>
+  </div><!-- /view-choice -->
+
+  <!-- ── COVER (on-demand key entry) ── -->
+  <div class="view" id="view-cover">
     <canvas id="pulse-canvas"></canvas>
     <div class="cover-inner">
       <div class="cover-meta">
@@ -348,7 +781,7 @@
         <span class="dot"></span>
         <span id="cover-date">—</span>
         <span class="dot"></span>
-        <span>WEEKLY</span>
+        <span>ON DEMAND</span>
       </div>
 
       <div class="masthead"><span class="git">Git</span>Wire</div>
@@ -395,6 +828,10 @@
         GENERATE THIS WEEK'S EDITION →
       </button>
       <div class="cover-err" id="cover-err"></div>
+
+      <div style="margin-top:1.2rem">
+        <button onclick="showView('choice')" style="background:none;border:none;color:var(--dimmed);font-family:var(--mono);font-size:9px;letter-spacing:.12em;text-transform:uppercase;cursor:pointer;padding:4px 0;transition:.2s" onmouseover="this.style.color='var(--muted)'" onmouseout="this.style.color='var(--dimmed)'">← Back to home</button>
+      </div>
     </div>
   </div>
 
@@ -413,7 +850,7 @@
       <!-- Masthead -->
       <div class="edition-header">
         <div class="edition-header-meta">
-          <span>Pumpo GitWire</span>
+          <span>GitWire</span>
           <span id="ed-edition-num">Edition —</span>
           <span id="ed-date">—</span>
         </div>
@@ -451,11 +888,11 @@
 
       <!-- Footer -->
       <div class="edition-footer">
-        <div class="edition-footer-brand">GitWire — Pumpo Tools · <span id="footer-date"></span></div>
+        <div class="edition-footer-brand">GitWire — nztdev Tools · <span id="footer-date"></span></div>
         <div class="footer-actions">
           <button class="footer-btn" onclick="copyShareSnippet(this)">Copy snippet</button>
           <button class="footer-btn" onclick="downloadEdition()">Download HTML</button>
-          <button class="footer-btn" onclick="backToCover()">← New edition</button>
+          <button class="footer-btn" onclick="backToCover()">← Home</button>
         </div>
       </div>
 
@@ -490,9 +927,99 @@
     document.getElementById('generate-btn').disabled = !geminiKey;
   }
 
+  // ── INTRO SLIDES ──────────────────────────────────────────────────────────
+  let currentSlide = 0;
+  const TOTAL_SLIDES = 3;
+
+  function goSlide(n) {
+    document.getElementById('slide-' + currentSlide).classList.remove('active');
+    document.querySelectorAll('.intro-dot')[currentSlide].classList.remove('active');
+    currentSlide = Math.max(0, Math.min(TOTAL_SLIDES - 1, n));
+    document.getElementById('slide-' + currentSlide).classList.add('active');
+    document.querySelectorAll('.intro-dot')[currentSlide].classList.add('active');
+    document.getElementById('intro-prev').disabled = currentSlide === 0;
+    const nextBtn = document.getElementById('intro-next');
+    if (currentSlide === TOTAL_SLIDES - 1) {
+      nextBtn.textContent = '→';
+      nextBtn.onclick = goToChoice;
+    } else {
+      nextBtn.textContent = '›';
+      nextBtn.onclick = () => slideNav(1);
+    }
+    // Show skip after slide 0
+    if (currentSlide > 0) document.getElementById('intro-skip-btn').style.display = 'block';
+  }
+
+  function slideNav(dir) { goSlide(currentSlide + dir); }
+
+  // Touch/swipe support
+  let touchStartX = 0;
+  function initSwipe(el) {
+    el.addEventListener('touchstart', e => { touchStartX = e.touches[0].clientX; }, { passive: true });
+    el.addEventListener('touchend', e => {
+      const dx = e.changedTouches[0].clientX - touchStartX;
+      if (Math.abs(dx) > 40) {
+        if (dx < 0 && currentSlide < TOTAL_SLIDES - 1) slideNav(1);
+        else if (dx > 0 && currentSlide > 0) slideNav(-1);
+        else if (dx < 0 && currentSlide === TOTAL_SLIDES - 1) goToChoice();
+      }
+    }, { passive: true });
+  }
+
+  function goToChoice() {
+    localStorage.setItem('gw_seen_intro', '1');
+    showView('choice');
+  }
+
+  // ── WEEKLY.JSON ───────────────────────────────────────────────────────────
+  let weeklyData = null;
+
+  async function prefetchWeekly() {
+    try {
+      const res = await fetch('weekly.json?nocache=' + Date.now());
+      if (!res.ok) throw new Error('not found');
+      weeklyData = await res.json();
+      updateWeeklyBadge();
+    } catch(e) {
+      weeklyData = null;
+      updateWeeklyBadge();
+    }
+  }
+
+  function updateWeeklyBadge() {
+    const btn = document.getElementById('weekly-btn');
+    const dot = document.getElementById('weekly-freshness-dot');
+    const lbl = document.getElementById('weekly-age-label');
+    if (!weeklyData) {
+      lbl.textContent = 'Unavailable';
+      dot.classList.remove('fresh');
+      btn.disabled = true;
+      return;
+    }
+    const generated = new Date(weeklyData.generatedAt);
+    const ageMs = Date.now() - generated.getTime();
+    const ageDays = Math.floor(ageMs / 86400000);
+    const fresh = ageDays <= 7;
+    dot.classList.toggle('fresh', fresh);
+    if (ageDays === 0) lbl.textContent = 'Updated today';
+    else if (ageDays === 1) lbl.textContent = 'Updated yesterday';
+    else lbl.textContent = `Last updated ${ageDays} days ago`;
+    if (!fresh) {
+      document.getElementById('choice-footnote').textContent =
+        `Edition from ${generated.toLocaleDateString('en-GB',{day:'numeric',month:'short',year:'numeric'})} — next update due Monday.`;
+    }
+  }
+
+  async function loadWeeklyEdition() {
+    if (!weeklyData) return;
+    renderEdition(weeklyData);
+    showView('edition');
+  }
+
   // ── PULSE ANIMATION ───────────────────────────────────────────────────────
-  function initPulse() {
-    const canvas = document.getElementById('pulse-canvas');
+  function initPulse(canvasId) {
+    const canvas = document.getElementById(canvasId);
+    if (!canvas) return;
     const ctx = canvas.getContext('2d');
     let w, h, cx, cy, angle = 0;
     const particles = [];
@@ -967,11 +1494,26 @@ Tone: curious, editorial. No markdown, no headers, flowing paragraphs.`);
     document.getElementById('view-' + id).classList.add('active');
     window.scrollTo({ top: 0, behavior: 'smooth' });
   }
-  function backToCover() { showView('cover'); }
+  function backToCover() { showView('choice'); }
 
   // ── INIT ──────────────────────────────────────────────────────────────────
   window.onload = function() {
-    initPulse();
+    // Start pulse on all canvases
+    initPulse('intro-pulse-canvas');
+    initPulse('choice-pulse-canvas');
+    initPulse('pulse-canvas');
+
+    // Swipe support on intro
+    initSwipe(document.getElementById('view-intro'));
+
+    // Keyboard nav for intro
+    document.addEventListener('keydown', e => {
+      const introActive = document.getElementById('view-intro').classList.contains('active');
+      if (!introActive) return;
+      if (e.key === 'ArrowRight' || e.key === 'ArrowDown') slideNav(1);
+      if (e.key === 'ArrowLeft' || e.key === 'ArrowUp') slideNav(-1);
+      if (e.key === 'Enter' && currentSlide === TOTAL_SLIDES - 1) goToChoice();
+    });
 
     // Edition meta on cover
     document.getElementById('cover-edition-num').textContent = 'EDITION ' + getEditionNumber();
@@ -987,6 +1529,16 @@ Tone: curious, editorial. No markdown, no headers, flowing paragraphs.`);
       showKeyStatus('github-key-status', '✓ Token loaded', true);
     }
     checkGenerateReady();
+
+    // Start prefetching weekly.json immediately
+    prefetchWeekly();
+
+    // Skip intro for returning users
+    const seenIntro = localStorage.getItem('gw_seen_intro');
+    if (seenIntro) {
+      showView('choice');
+    }
+    // else stays on view-intro (already active)
   };
   </script>
 </body>
