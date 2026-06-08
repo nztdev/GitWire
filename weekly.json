@@ -1,13 +1,13 @@
 {
   "edition": "075",
   "weekRange": "8 Jun – 14 Jun, 2026",
-  "generatedAt": "2026-06-08T08:28:02Z",
+  "generatedAt": "2026-06-08T11:25:00Z",
   "lead": {
     "full_name": "cpaczek/skylight",
     "description": "Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.",
     "html_url": "https://github.com/cpaczek/skylight",
-    "stargazers_count": 2311,
-    "forks_count": 231,
+    "stargazers_count": 2326,
+    "forks_count": 232,
     "language": "TypeScript",
     "topics": [
       "ads-b",
@@ -24,27 +24,11 @@
     "pushed_at": "2026-06-07T23:24:59Z"
   },
   "hoodRepo": {
-    "full_name": "zenhosta/9drive",
-    "description": "9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upload files, organize files with virtual folders, preview files, and let the backend route uploads to the Drive account with enough free space.",
-    "html_url": "https://github.com/zenhosta/9drive",
-    "stargazers_count": 427,
-    "forks_count": 148,
-    "language": "TypeScript",
-    "topics": [
-      "drive",
-      "gateway",
-      "google",
-      "storage"
-    ],
-    "created_at": "2026-06-04T09:22:03Z",
-    "pushed_at": "2026-06-05T16:39:38Z"
-  },
-  "ideaRepo": {
     "full_name": "JimLiu/baoyu-design",
     "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
     "html_url": "https://github.com/JimLiu/baoyu-design",
-    "stargazers_count": 408,
-    "forks_count": 26,
+    "stargazers_count": 444,
+    "forks_count": 31,
     "language": "JavaScript",
     "topics": [
       "agent-skills",
@@ -59,13 +43,24 @@
     "created_at": "2026-06-07T01:16:18Z",
     "pushed_at": "2026-06-07T14:54:22Z"
   },
+  "ideaRepo": {
+    "full_name": "nevertoday/zhongguo-traditional-colors",
+    "description": "中华传统色演示、色卡浏览与颜色知识科普开源项目",
+    "html_url": "https://github.com/nevertoday/zhongguo-traditional-colors",
+    "stargazers_count": 418,
+    "forks_count": 50,
+    "language": "JavaScript",
+    "topics": [],
+    "created_at": "2026-06-03T03:26:16Z",
+    "pushed_at": "2026-06-08T09:53:09Z"
+  },
   "freshDrops": [
     {
       "full_name": "b-nnett/goose",
       "description": "Goose Swift proof-of-concept README",
       "html_url": "https://github.com/b-nnett/goose",
-      "stargazers_count": 2278,
-      "forks_count": 536,
+      "stargazers_count": 2294,
+      "forks_count": 541,
       "language": "Rust",
       "topics": [],
       "created_at": "2026-06-02T12:16:37Z",
@@ -75,8 +70,8 @@
       "full_name": "jd-opensource/JoyAI-Echo",
       "description": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
       "html_url": "https://github.com/jd-opensource/JoyAI-Echo",
-      "stargazers_count": 931,
-      "forks_count": 59,
+      "stargazers_count": 977,
+      "forks_count": 65,
       "language": "Python",
       "topics": [],
       "created_at": "2026-06-02T03:25:51Z",
@@ -86,7 +81,7 @@
       "full_name": "tastyeffectco/sandboxd",
       "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
       "html_url": "https://github.com/tastyeffectco/sandboxd",
-      "stargazers_count": 503,
+      "stargazers_count": 506,
       "forks_count": 12,
       "language": "Go",
       "topics": [
@@ -108,7 +103,7 @@
       "full_name": "Jane-xiaoer/xiaoer-videolab",
       "description": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
       "html_url": "https://github.com/Jane-xiaoer/xiaoer-videolab",
-      "stargazers_count": 476,
+      "stargazers_count": 479,
       "forks_count": 75,
       "language": "JavaScript",
       "topics": [
@@ -126,11 +121,31 @@
       "pushed_at": "2026-06-07T02:10:05Z"
     },
     {
+      "full_name": "JimLiu/baoyu-design",
+      "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
+      "html_url": "https://github.com/JimLiu/baoyu-design",
+      "stargazers_count": 444,
+      "forks_count": 31,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "claude",
+        "claude-code",
+        "claude-design",
+        "cursor",
+        "design",
+        "prototyping",
+        "ui-design"
+      ],
+      "created_at": "2026-06-07T01:16:18Z",
+      "pushed_at": "2026-06-07T14:54:22Z"
+    },
+    {
       "full_name": "zenhosta/9drive",
       "description": "9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upload files, organize files with virtual folders, preview files, and let the backend route uploads to the Drive account with enough free space.",
       "html_url": "https://github.com/zenhosta/9drive",
-      "stargazers_count": 427,
-      "forks_count": 148,
+      "stargazers_count": 434,
+      "forks_count": 150,
       "language": "TypeScript",
       "topics": [
         "drive",
@@ -140,53 +155,51 @@
       ],
       "created_at": "2026-06-04T09:22:03Z",
       "pushed_at": "2026-06-05T16:39:38Z"
-    },
-    {
-      "full_name": "nevertoday/zhongguo-traditional-colors",
-      "description": "中华传统色演示、色卡浏览与颜色知识科普开源项目",
-      "html_url": "https://github.com/nevertoday/zhongguo-traditional-colors",
-      "stargazers_count": 413,
-      "forks_count": 50,
-      "language": "JavaScript",
-      "topics": [],
-      "created_at": "2026-06-03T03:26:16Z",
-      "pushed_at": "2026-06-08T08:04:19Z"
     }
   ],
   "resurrection": {
-    "full_name": "ultraworkers/claw-code",
-    "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
-    "html_url": "https://github.com/ultraworkers/claw-code",
-    "stargazers_count": 193461,
-    "forks_count": 109959,
-    "language": "Rust",
-    "topics": [],
-    "created_at": "2026-03-31T08:58:08Z",
-    "pushed_at": "2026-06-08T06:06:12Z"
+    "full_name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "html_url": "https://github.com/affaan-m/ECC",
+    "stargazers_count": 210338,
+    "forks_count": 32253,
+    "language": "JavaScript",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "productivity"
+    ],
+    "created_at": "2026-01-18T00:51:51Z",
+    "pushed_at": "2026-06-07T16:43:12Z"
   },
-  "signalArticle": "This week, `cpaczek/skylight` has captured the GitHub community's attention, rapidly accumulated stars for its unique offering. It transforms flight tracking into an immersive, ambient experience: real-time projections of overhead aircraft, directly onto your ceiling. Powered by an affordable RTL-SDR receiver, a Raspberry Pi, and a projector, `skylight` integrates a dynamic celestial layer—sun, moon, stars, and even the ISS—creating a living window to the sky. Its instant appeal lies in making the invisible visible, turning raw radio signals into a personal, captivating art installation that resonates right now.\n\nThe project exists at a fascinating intersection of trends: the democratization of specialized data like ADS-B signals, the power of physical computing for creative endeavors, and the growing demand for personalized ambient displays. Beyond simple novelty, `skylight` exemplifies how accessible hardware platforms, coupled with sophisticated software, can elevate raw data into compelling interactive art. It represents a broader movement blending digital insights seamlessly into physical environments, transforming complex aerial traffic into intuitive, beautiful visualizations.\n\nFor developers and tech observers, `skylight` offers more than just a cool gadget; it's a masterclass in full-stack integration. From hardware interfacing with an RTL-SDR on a Raspberry Pi, through real-time data processing, to a slick, responsive TypeScript and React frontend, it showcases robust architectural choices and the tangible impact of open-source tooling. It proves powerful, innovative user experiences are achievable with readily available components. It's a compelling case study for exploring IoT, data visualization, and translating complex data into engaging, accessible realities.",
-  "hoodArticle": "9Drive distinguishes itself with an architectural approach centered on a sophisticated virtualization layer over disparate Google Drive accounts, acting as an intelligent storage gateway rather than a mere aggregator. A key design is the backend's dynamic routing of file uploads. This involves continuous quota monitoring across all user-linked Google Drive instances, followed by proxying uploads to the account with sufficient available space. This abstraction provides a unified virtual file system, allowing the frontend to interact with a singular, consistent API endpoint. The client remains unaware of the underlying multi-account distribution or storage allocation, simplifying development and significantly enhancing user experience.\n\nThe most compelling problem 9Drive solves at a code level is the seamless, automated management of distributed file storage and intelligent resource allocation across multiple Google Drive quotas. Its implementation stands out by transparently allocating storage for new uploads without user intervention. This necessitates a robust data model mapping user-defined virtual folder structures to specific files and accounts. Critically, a smart upload service intercepts requests, consults aggregated quota data, and intelligently dispatches the file to the optimally available Drive account, effectively functioning as a self-optimizing storage orchestrator.",
-  "ideaArticle": "Imagine having a super-smart design assistant living right on your computer, ready to create beautiful websites, app interfaces, or presentations for you instantly. That's the core idea behind this project. Instead of relying on a distant online service that uses powerful AI like Claude Design, this tool brings that intelligence directly to your machine. It translates your design concepts into ready-to-use, polished user interface mockups, interactive prototypes, or even presentation decks, all packaged as standard web files (HTML). It’s like having the full power of an AI design studio at your fingertips, completely offline and without sending your ideas to a third-party website.\n\nThis addresses a significant need for speed, privacy, and accessibility in design. Many individuals and small teams struggle to quickly visualize product ideas, create prototypes, or simply get professional-looking designs without hiring a designer or subscribing to expensive, complex software. Founders can rapidly mock up new features, product managers can iterate on user experiences in real-time, and developers can generate attractive interfaces without needing design expertise. It’s perfect for anyone who values maintaining privacy for sensitive projects, wants instant visual output, or needs to bridge the gap between an idea and a tangible user interface, all while keeping control of their data and creative process on their own terms.",
+  "signalArticle": "This week, `cpaczek/skylight` soared into our feeds, offering a mesmerizing real-time projection of aircraft passing overhead, complete with celestial bodies, directly onto your ceiling. Amassing over 2300 stars, this Raspberry Pi-powered art installation uses an RTL-SDR to tap into ADS-B signals, translating raw data into an immersive, living map above you. It’s a remarkable fusion of accessible hardware and clever software, making the invisible ballet of air traffic tangible and beautiful, right in your own space, showing us a new way to interact with our immediate environment.\n\nThe project occupies an intriguing intersection of the burgeoning maker movement and the quest for ambient intelligence. With affordable RTL-SDR dongles unlocking a wealth of radio signals, `skylight` exemplifies a growing trend: transforming complex, often abstract, data streams into intuitive, even artistic, visualizations. It’s not just about tracking planes; it's about re-imagining how we perceive our world, using ubiquitous signals to create personalized data experiences. This trend extends beyond aviation, hinting at future applications where environmental or infrastructure data could be similarly projected and understood.\n\nFor developers, `skylight` serves as a masterclass in full-stack, real-time data processing, leveraging TypeScript and React on a Raspberry Pi. It’s an inspiring example of open-source innovation, demonstrating how commodity hardware can be harnessed for sophisticated, engaging applications. Tech watchers, meanwhile, should see this as a harbinger of more creative, immersive data interfaces. It underscores the ongoing democratization of advanced sensing capabilities and the power of the GitHub community to transform niche interests into compelling, widely accessible projects that blend art, science, and engineering in profoundly human ways.",
+  "hoodArticle": "The JimLiu/baoyu-design repository showcases an innovative architectural approach, framing Large Language Models (LLMs) as a local \"Agent Skill\" for UI generation. Eschewing cloud-based design platforms, it orchestrates a local Claude instance via API to interpret natural language prompts, directly generating polished UI artifacts. This transforms the LLM into a programmatic, on-demand code generator for web interfaces, abstracting UI creation into an agent-driven workflow. The emphasis on self-contained HTML outputs prioritizes portability and immediate utility, positioning the LLM as a dedicated, local prototyping engine capable of producing mockups and wireframes.\n\nAt a code level, baoyu-design solves translating high-level design concepts directly into deployable web components, bypassing manual GUI tools or continuous cloud interaction. Its implementation stands out by treating Claude as a structured code synthesis agent, not merely a text generator. This necessitates sophisticated JavaScript-based prompt engineering for UI components, meticulous context management for iterative refinement, and potential post-processing of generated HTML/CSS/JS. Integrated as an \"Agent Skill\" within developer environments like Cursor, it offers a frictionless path for rapid prototyping, providing granular control and enhanced privacy via localized design generation.",
+  "ideaArticle": "Stripped of its technical underpinnings, this project is a beautifully curated digital archive of traditional Chinese colors. It's an interactive experience, far more than just a list, allowing users to browse stunning color cards, see visual demonstrations of each hue, and delve into the fascinating historical and cultural knowledge behind them. Imagine an elegantly designed online gallery dedicated solely to color, where each shade tells a story, offering both aesthetic delight and a deeper appreciation for this rich cultural heritage in an accessible, engaging format.\n\nThis initiative brilliantly addresses a need for culturally rich and easily accessible inspiration. For designers across graphic, product, or fashion disciplines, it's an invaluable tool for discovering distinctive color schemes that carry inherent meaning and historical depth. Founders and product managers can leverage this to infuse brands or products with a sophisticated, unique aesthetic, standing out in a crowded market. Beyond professional use, it serves anyone curious about art, history, and the symbolism within traditional Chinese culture, offering a fascinating educational and inspirational journey for a broad audience.",
   "dropDescriptions": [
-    "Goose blends Rust's power with Swift's elegance in an intriguing proof-of-concept project.",
-    "JoyAI-Echo is pushing the boundaries of long-form AI audio and video generation.",
-    "Get self-hosted dev sandboxes with preview URLs in one command, no Kubernetes needed for your projects.",
-    "Grab videos from over 1800 sites to your local downloads with a single click, effortlessly.",
-    "9Drive unifies multiple Google Drive accounts into one smart dashboard for seamless storage management.",
-    "Explore and learn about beautiful traditional Chinese colors with this open-source interactive guide."
+    "Goose: A powerful Swift proof-of-concept, elegantly crafted with Rust's performance.",
+    "JoyAI-Echo pioneers the frontier of long audio-visual generation with advanced AI.",
+    "Sandboxd delivers instant self-hosted dev sandboxes with preview URLs, no Kubernetes required.",
+    "Grab any page's video instantly! Xiaoer-videolab downloads from 1800+ sites with one click.",
+    "Run Claude Design locally! Baoyu-design generates polished UI mockups and prototypes as self-contained HTML.",
+    "9Drive unifies multiple Google Drives into one smart virtual storage dashboard."
   ],
-  "resurrectionArticle": "ultraworkers/claw-code was nothing short of revolutionary when it debuted in 2026. A Rust-based agent-managed museum exhibit, its true significance lay in its development: the entire application, from concept to ongoing maintenance, was built by Gajae-Code and LazyCodex with no human intervention. It stood as an audacious proof-of-concept for truly autonomous software creation, fundamentally reshaping perceptions of AI as the sole architect of complex systems.\n\nYears after its last push, claw-code is surging back into relevance. The current ecosystem, brimming with advanced autonomous agents and code generation, has finally matured to meet ultraworkers' vision. What was once an experimental, almost prophetic statement about AI's potential is now becoming a practical benchmark. Developers are revisiting this dormant project not just as a historical curiosity, but as a foundational blueprint, eager to apply its \"no human intervention\" ethos to today's self-evolving software landscape.",
+  "resurrectionArticle": "The `affaan-m/ECC` repository, a JavaScript project from early 2026, quickly gained over 200,000 stars as the definitive \"agent harness performance optimization system.\" It was crucial for developers integrating early AI code generation platforms like Claude Code and Codex. ECC's focus was on the infrastructure to manage, optimize, and secure these agents, not the models themselves. Its emphasis on \"skills, instincts, memory, and security\" provided a sophisticated blueprint for reliable AI assistance in those nascent days of intelligent coding.\n\nAfter fading slightly from the immediate spotlight, ECC is now witnessing a remarkable \"Resurrection,\" directly reflecting AI's current shift towards complex, autonomous multi-agent systems. As AI agents move into critical production roles, ECC's original concerns—robust memory management, secure execution, and cultivating reliable agent \"instincts\"—have become paramount. This repository's pioneering architectural insights, once perhaps ahead of their time, are proving invaluable for building today's dependable, high-performance, and secure agentic AI systems.",
   "numbers": {
     "repoCount": 25,
-    "totalStars": 12600,
-    "avgStars": 504,
+    "totalStars": 12906,
+    "avgStars": 516,
     "topLang": "TypeScript",
     "mostForked": {
       "full_name": "b-nnett/goose",
       "description": "Goose Swift proof-of-concept README",
       "html_url": "https://github.com/b-nnett/goose",
-      "stargazers_count": 2278,
-      "forks_count": 536,
+      "stargazers_count": 2294,
+      "forks_count": 541,
       "language": "Rust",
       "topics": [],
       "created_at": "2026-06-02T12:16:37Z",
