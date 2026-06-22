@@ -1,13 +1,13 @@
 {
   "edition": "077",
   "weekRange": "22 Jun – 28 Jun, 2026",
-  "generatedAt": "2026-06-22T12:29:28Z",
+  "generatedAt": "2026-06-22T18:32:14Z",
   "lead": {
     "full_name": "vercel/eve",
     "description": "The Framework for Building Agents",
     "html_url": "https://github.com/vercel/eve",
-    "stargazers_count": 2198,
-    "forks_count": 154,
+    "stargazers_count": 2237,
+    "forks_count": 161,
     "language": "TypeScript",
     "topics": [
       "agent",
@@ -21,42 +21,41 @@
       "workflows"
     ],
     "created_at": "2026-06-16T10:51:20Z",
-    "pushed_at": "2026-06-22T12:03:40Z"
+    "pushed_at": "2026-06-22T18:28:13Z"
   },
   "hoodRepo": {
-    "full_name": "Plaer1/junction",
-    "description": "VS Code chat sidebar for local AI coding agents",
-    "html_url": "https://github.com/Plaer1/junction",
-    "stargazers_count": 518,
-    "forks_count": 7,
+    "full_name": "aidenybai/cnfast",
+    "description": "Fast drop in replacement for `cn`",
+    "html_url": "https://github.com/aidenybai/cnfast",
+    "stargazers_count": 617,
+    "forks_count": 6,
     "language": "TypeScript",
-    "topics": [],
-    "created_at": "2026-06-17T05:27:09Z",
-    "pushed_at": "2026-06-17T16:39:19Z"
+    "topics": [
+      "clsx",
+      "cn",
+      "tailwindcss"
+    ],
+    "created_at": "2026-06-19T19:46:29Z",
+    "pushed_at": "2026-06-22T06:22:08Z"
   },
   "ideaRepo": {
-    "full_name": "lyra81604/zhengxi-views",
-    "description": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
-    "html_url": "https://github.com/lyra81604/zhengxi-views",
-    "stargazers_count": 496,
-    "forks_count": 65,
-    "language": "Python",
-    "topics": [
-      "agent-skill",
-      "chinese-funds",
-      "funds",
-      "investing"
-    ],
-    "created_at": "2026-06-20T04:27:07Z",
-    "pushed_at": "2026-06-21T07:44:51Z"
+    "full_name": "ngrok/webernetes",
+    "description": "Kubernetes in the browser.",
+    "html_url": "https://github.com/ngrok/webernetes",
+    "stargazers_count": 512,
+    "forks_count": 40,
+    "language": "TypeScript",
+    "topics": [],
+    "created_at": "2026-06-16T16:52:34Z",
+    "pushed_at": "2026-06-18T16:21:14Z"
   },
   "freshDrops": [
     {
       "full_name": "zhongerxin/Cowart",
       "description": null,
       "html_url": "https://github.com/zhongerxin/Cowart",
-      "stargazers_count": 1769,
-      "forks_count": 139,
+      "stargazers_count": 1930,
+      "forks_count": 149,
       "language": "JavaScript",
       "topics": [],
       "created_at": "2026-06-18T16:08:30Z",
@@ -66,7 +65,7 @@
       "full_name": "rebel0789/codexpro",
       "description": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
       "html_url": "https://github.com/rebel0789/codexpro",
-      "stargazers_count": 684,
+      "stargazers_count": 704,
       "forks_count": 61,
       "language": "JavaScript",
       "topics": [
@@ -79,14 +78,14 @@
         "ngrok"
       ],
       "created_at": "2026-06-16T21:22:43Z",
-      "pushed_at": "2026-06-20T14:34:15Z"
+      "pushed_at": "2026-06-22T16:05:46Z"
     },
     {
       "full_name": "Forsy-AI/agent-apprenticeship",
       "description": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
       "html_url": "https://github.com/Forsy-AI/agent-apprenticeship",
-      "stargazers_count": 645,
-      "forks_count": 43,
+      "stargazers_count": 673,
+      "forks_count": 44,
       "language": null,
       "topics": [
         "agent-apprenticeship",
@@ -114,11 +113,27 @@
       "pushed_at": "2026-06-20T23:19:59Z"
     },
     {
+      "full_name": "lyra81604/zhengxi-views",
+      "description": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
+      "html_url": "https://github.com/lyra81604/zhengxi-views",
+      "stargazers_count": 626,
+      "forks_count": 76,
+      "language": "Python",
+      "topics": [
+        "agent-skill",
+        "chinese-funds",
+        "funds",
+        "investing"
+      ],
+      "created_at": "2026-06-20T04:27:07Z",
+      "pushed_at": "2026-06-21T07:44:51Z"
+    },
+    {
       "full_name": "aidenybai/cnfast",
       "description": "Fast drop in replacement for `cn`",
       "html_url": "https://github.com/aidenybai/cnfast",
-      "stargazers_count": 537,
-      "forks_count": 5,
+      "stargazers_count": 617,
+      "forks_count": 6,
       "language": "TypeScript",
       "topics": [
         "clsx",
@@ -132,63 +147,41 @@
       "full_name": "Plaer1/junction",
       "description": "VS Code chat sidebar for local AI coding agents",
       "html_url": "https://github.com/Plaer1/junction",
-      "stargazers_count": 518,
+      "stargazers_count": 524,
       "forks_count": 7,
       "language": "TypeScript",
       "topics": [],
       "created_at": "2026-06-17T05:27:09Z",
       "pushed_at": "2026-06-17T16:39:19Z"
-    },
-    {
-      "full_name": "ngrok/webernetes",
-      "description": "Kubernetes in the browser.",
-      "html_url": "https://github.com/ngrok/webernetes",
-      "stargazers_count": 503,
-      "forks_count": 38,
-      "language": "TypeScript",
-      "topics": [],
-      "created_at": "2026-06-16T16:52:34Z",
-      "pushed_at": "2026-06-18T16:21:14Z"
     }
   ],
   "resurrection": {
-    "full_name": "VoltAgent/awesome-design-md",
-    "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
-    "html_url": "https://github.com/VoltAgent/awesome-design-md",
-    "stargazers_count": 92188,
-    "forks_count": 10955,
-    "language": null,
-    "topics": [
-      "awesome-list",
-      "design-md",
-      "design-system",
-      "design-tokens",
-      "figma",
-      "google-stitch",
-      "landing-page",
-      "vibe-coding",
-      "vibe-design",
-      "vibecoding"
-    ],
-    "created_at": "2026-03-31T16:37:01Z",
-    "pushed_at": "2026-06-16T14:21:08Z"
+    "full_name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .claude directory.",
+    "html_url": "https://github.com/mattpocock/skills",
+    "stargazers_count": 141372,
+    "forks_count": 12237,
+    "language": "Shell",
+    "topics": [],
+    "created_at": "2026-02-03T11:15:53Z",
+    "pushed_at": "2026-06-18T08:41:52Z"
   },
-  "signalArticle": "Vercel has once again captured the GitHub spotlight with `vercel/eve`, a newly trending repository billed as \"The Framework for Building Agents.\" Amassing over 2,000 stars in a short time, Eve immediately stands out as a serious, TypeScript-first approach to developing sophisticated AI agents. This isn't just another library; it's a foundational system designed to provide a structured environment, complete with sandboxing and defined workflows, for crafting autonomous entities. Coming from Vercel, known for shaping modern web development, Eve's rapid ascent signals a critical, immediate interest in robust tooling for the burgeoning agent paradigm.\n\nThe emergence of Eve directly addresses a pressing challenge: translating the promise of AI agents into reliable, production-grade applications. As the industry moves beyond simple prompt-response interactions, the demand for agents capable of complex, multi-step reasoning, tool interaction, and self-correction is skyrocketing. This problem space, often characterized by ad-hoc scripting and debugging nightmares, desperately needs a mature framework. Eve positions itself squarely within this trend, offering a coherent system for defining, executing, and monitoring agentic workflows, moving us closer to a future where AI systems can independently achieve intricate goals with predictable outcomes.\n\nFor developers, Eve promises to bring Vercel's signature focus on developer experience to agent development, offering a standardized, TypeScript-native path forward. This could dramatically lower the barrier to entry for powerful AI applications and accelerate innovation. For tech watchers, Eve is a powerful signal: Vercel's strategic investment here underscores a belief that the future of applications is deeply agent-centric. Its potential to become a foundational pillar for agent development, much like Next.js did for web frameworks, makes `vercel/eve` a repository to watch closely as it could redefine how we build intelligence into software.",
-  "hoodArticle": "Plaer1/junction distinguishes itself by meticulously integrating local AI agents directly into the VS Code environment, effectively sidestepping reliance on external cloud services. Its architectural interest lies in its robust bridge between the VS Code extension host and independent, locally-run language models. This involves careful orchestration of child processes, managing their lifecycle, resource allocation, and inter-process communication. The project's strength is its ability to abstract away the inherent complexities of diverse local AI runtimes—from model loading to direct inference calls to various local model servers—creating a seamless user experience. This design positions it as a critical intermediary for leveraging powerful AI without data egress or network latency.\n\nAt a code level, Junction tackles the specific challenge of standardizing interaction with a heterogeneous landscape of local AI backends from within a single VS Code extension. Typical implementations struggle with the variance in APIs, process management, and communication protocols (e.g., HTTP for Ollama vs. raw IPC for custom executables). This project likely employs a sophisticated adapter pattern, providing a unified interface for the VS Code frontend while abstracting specific communication details for each local AI provider. This approach stands out by ensuring high extensibility and maintainability, allowing new local AI runtimes to be integrated with minimal impact on core extension logic, thus centralizing complex interactions and lowering the barrier for privacy-focused local LLM utilization.",
-  "ideaArticle": "Imagine having a digital assistant that deeply understands the investment philosophy of a specific, successful fund manager. That's essentially what \"zhengxi-views\" offers. Stripped of its technical layers, this project builds an intelligent agent designed to mimic the thinking and decision-making framework of Zheng Xi, a prominent E Fund manager. It learns directly from *all* his publicly available opinions, ensuring that every piece of analysis or advice can be traced back to his exact words. This isn't about new advice, but rather creating a structured way to apply his established investment methods, using real market data, to evaluate other funds, strictly adhering to his proven approach.\n\nThis concept addresses a significant need: the desire for informed, yet unbiased, guidance rooted in an expert's proven strategy. For individual investors, it offers a unique tool to learn from a master without misinterpreting complex ideas or falling victim to speculation. Founders might see its potential for personalized financial education, while product managers could appreciate how AI is used not to replace human judgment, but to systematically apply it. It’s for anyone wanting to demystify fund analysis and make more data-driven, philosophy-backed decisions, ensuring transparency and accountability in financial insights.",
+  "signalArticle": "Vercel’s new `eve` repository, a TypeScript framework for building AI agents, exploded onto the trending charts this week, racking up over 2000 stars in a flash. This isn't just another Vercel project; it's a potent signal of the industry’s urgent demand for robust, opinionated tools to navigate the emerging agentic AI paradigm. `eve` provides a structured environment—a \"sandbox\" for autonomous workflows—offering developers a much-needed foundation for moving beyond simple prompts to complex, multi-step operations that define true AI agents. Its immediate popularity underscores a widespread hunger for order in an increasingly chaotic AI development landscape.\n\nThe broader canvas of AI development is quickly shifting from static model inference to dynamic, goal-oriented agents that can reason, plan, and execute. However, building these agents reliably has been a significant hurdle. Developers frequently grapple with managing state, orchestrating tool use, and ensuring predictable behavior in an inherently unpredictable environment. `eve` steps squarely into this void, addressing the critical need for an \"agent harness\"—a disciplined approach that brings reusability and scalability to the design of sophisticated AI workflows, elevating agent creation from experimental scripting to engineering discipline.\n\nFor developers, `vercel/eve` presents an intriguing opportunity to dive into agentic AI with a familiar TypeScript toolkit and the considerable backing of a major platform player. It promises to abstract away much of the underlying infrastructure complexity, allowing focus on core agent logic. For tech watchers, `eve`’s rapid ascent underscores Vercel’s strategic vision and the intensifying race to define the future of AI application development. Its potential to standardize agent creation and bring robust engineering practices to this frontier makes it a crucial project to monitor, shaping how we build and interact with the next generation of intelligent systems.",
+  "hoodArticle": "cnfast offers a compelling architectural approach to optimizing dynamic class string generation, a common performance consideration for applications heavily utilizing Tailwind CSS. The repository's core interest lies in its highly specialized, custom parsing and merging engine, engineered as a drop-in replacement for utilities like `clsx`. This implementation departs from generic string concatenation and object iteration by leveraging deep insights into Tailwind's class structure. It employs an intelligent pre-processing and canonicalization strategy that significantly minimizes runtime computation through highly efficient lookups and conflict resolution, directly reducing performance burdens during frequent component re-renders.\n\nThis repository directly addresses the accumulating performance cost of merging numerous class strings, a common bottleneck in highly interactive applications. While `clsx` is efficient for general purposes, `cnfast` stands out by focusing specifically on Tailwind CSS, enabling a profoundly optimized implementation. It likely employs a sophisticated internal data structure, possibly a custom trie, to parse, deduplicate, and resolve conflicting Tailwind classes (e.g., `p-4` vs `p-8`) in a single, highly efficient pass. This bespoke algorithm, tailored to the predictable structure of Tailwind utility classes, avoids the overhead of generic string operations, providing a genuine \"fast drop-in replacement\" with tangible improvements in critical rendering paths.",
+  "ideaArticle": "Webernetes, from the innovative team at ngrok, distills the complexity of modern infrastructure into pure accessibility. Stripped of technical jargon, this project lets you run a complete, small-scale server management system—a miniature data center—directly within your web browser. You can spin up an environment to deploy and manage applications without installing anything, configuring intricate network settings, or needing a powerful machine. It’s all there, ready to go, sandboxed and self-contained, offering a low-friction playground for experimenting with cloud-native operations.\n\nThis project brilliantly addresses a significant pain point: the steep learning curve and operational overhead of modern infrastructure. For anyone wanting to understand or teach Kubernetes—from aspiring developers to product managers curious about cloud-native tech—Webernetes provides an unparalleled, zero-setup environment. It’s an ideal tool for educators building interactive courses, developers needing a quick sandbox for prototyping, or sales teams doing quick demos. Ultimately, it dramatically lowers the barrier to entry for a crucial technology, making complex cloud management concepts hands-on for a much wider audience.",
   "dropDescriptions": [
-    "Draw stunning illustrations and animations with CSS, effortlessly bringing your web designs to life.",
-    "Unleash ChatGPT's developer powers locally to assist with your codebase, turning AI into your personal coding assistant.",
-    "An AI ecosystem where agents continuously learn from real-world tasks, sharing knowledge to improve and grow smarter.",
-    "Boost your web performance by quickly and efficiently joining CSS class names with this blazing-fast utility.",
-    "Integrate local AI coding agents directly into your VS Code sidebar for instant, context-aware development assistance.",
-    "Experience the power of Kubernetes right in your web browser, making container orchestration more accessible than ever."
+    "Cowart: A versatile JavaScript library for crafting dynamic web interfaces and creative digital experiences.",
+    "Turn ChatGPT into your personal, local coding assistant, bringing powerful AI directly to your repository.",
+    "Experience an AI ecosystem where agents continuously learn and improve by doing real-world tasks together.",
+    "An AI agent that emulates a real fund manager's investment strategy, providing traceable, data-driven insights for research.",
+    "Boost your web development speed with cnfast, a lightning-fast, drop-in replacement for `cn` utilities.",
+    "Integrate your local AI coding agents directly into VS Code with Junction's convenient chat sidebar."
   ],
-  "resurrectionArticle": "VoltAgent's `awesome-design-md` originally presented a fascinating, almost prescient, take on design-to-code automation. It offered a curated collection of `DESIGN.md` files, analyzed from popular brand design systems, with the captivating promise that \"coding agents\" could automatically generate a matching UI. This repository mattered because it envisioned a future where the gap between design intent and coded reality could be instantly bridged, transforming design systems from mere documentation into directly executable blueprints for UI construction.\n\nThe repository's sudden resurgence speaks volumes about the recent explosion in AI and agentic capabilities. Back in 2026, the idea of \"coding agents\" truly capable of complex, context-aware UI generation from a markdown file was largely theoretical. Today, with dramatic advancements in large language models and sophisticated autonomous agents, `awesome-design-md`'s original vision has finally found its technological bedrock. What was once a speculative leap now feels entirely within reach, transforming this collection into a highly practical toolkit for modern AI-assisted UI development.",
+  "resurrectionArticle": "The `mattpocock/skills` repository, titled \"Skills for Real Engineers. Straight from my .claude directory,\" exploded onto the scene in early 2026, garnering over 140,000 stars. This AI-curated manifesto provocatively defined essential engineering proficiencies. Its designation as a Shell project was a critical statement: true engineering demands foundational command-line mastery, urging developers to remain intimately connected to underlying systems rather than relying on high-level abstractions. It quickly became a controversial, influential benchmark for core competencies.\n\nToday, amidst pervasive AI integration, `mattpocock/skills` is seeing a curious resurgence. While AI excels at routine tasks, the initial zeal is evolving into a pragmatic understanding: deep knowledge of *why* and *how* systems function—precisely this Shell-centric list's message—is paramount. When AI assistance falters, the ability to diagnose, optimize, and debug at a fundamental level becomes the ultimate competitive advantage, prompting a new wave of developers to revisit these foundational \"real engineer\" skills.",
   "numbers": {
     "repoCount": 25,
-    "totalStars": 12469,
-    "avgStars": 499,
+    "totalStars": 13613,
+    "avgStars": 545,
     "topLang": "TypeScript",
     "mostForked": {
       "full_name": "MstKail/wc2026-crypto-sportsbook",
