@@ -1,13 +1,13 @@
 {
   "edition": "079",
   "weekRange": "6 Jul – 12 Jul, 2026",
-  "generatedAt": "2026-07-06T11:07:35Z",
+  "generatedAt": "2026-07-06T17:18:38Z",
   "lead": {
     "full_name": "elder-plinius/T3MP3ST",
     "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
     "html_url": "https://github.com/elder-plinius/T3MP3ST",
-    "stargazers_count": 2133,
-    "forks_count": 522,
+    "stargazers_count": 2421,
+    "forks_count": 585,
     "language": "TypeScript",
     "topics": [
       "agents",
@@ -17,13 +17,13 @@
       "redteam"
     ],
     "created_at": "2026-07-02T17:53:55Z",
-    "pushed_at": "2026-07-05T22:31:58Z"
+    "pushed_at": "2026-07-06T16:35:07Z"
   },
   "hoodRepo": {
     "full_name": "xuchonglang/investing-for-beginners",
     "description": "小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
     "html_url": "https://github.com/xuchonglang/investing-for-beginners",
-    "stargazers_count": 730,
+    "stargazers_count": 737,
     "forks_count": 39,
     "language": null,
     "topics": [
@@ -40,8 +40,8 @@
     "full_name": "uzairansaruzi/hermex",
     "description": "Native iPhone app for your Hermes agent",
     "html_url": "https://github.com/uzairansaruzi/hermex",
-    "stargazers_count": 636,
-    "forks_count": 66,
+    "stargazers_count": 646,
+    "forks_count": 67,
     "language": "Swift",
     "topics": [
       "hermes",
@@ -54,15 +54,15 @@
       "swiftui"
     ],
     "created_at": "2026-07-02T12:47:31Z",
-    "pushed_at": "2026-07-06T04:15:10Z"
+    "pushed_at": "2026-07-06T16:52:26Z"
   },
   "freshDrops": [
     {
       "full_name": "mekos2772/ios-location-spoofer",
       "description": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
       "html_url": "https://github.com/mekos2772/ios-location-spoofer",
-      "stargazers_count": 1388,
-      "forks_count": 212,
+      "stargazers_count": 1418,
+      "forks_count": 219,
       "language": "JavaScript",
       "topics": [],
       "created_at": "2026-06-30T11:20:30Z",
@@ -72,30 +72,19 @@
       "full_name": "HUANGCHIHHUNGLeo/claude-real-video",
       "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
       "html_url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-      "stargazers_count": 1124,
-      "forks_count": 66,
+      "stargazers_count": 1198,
+      "forks_count": 72,
       "language": "Python",
       "topics": [],
       "created_at": "2026-06-30T10:55:02Z",
-      "pushed_at": "2026-07-05T12:43:59Z"
-    },
-    {
-      "full_name": "jamesob/local-llm",
-      "description": "Everything I know about running LLMs locally",
-      "html_url": "https://github.com/jamesob/local-llm",
-      "stargazers_count": 978,
-      "forks_count": 59,
-      "language": "Shell",
-      "topics": [],
-      "created_at": "2026-07-03T13:06:03Z",
-      "pushed_at": "2026-07-03T20:12:00Z"
+      "pushed_at": "2026-07-06T16:20:23Z"
     },
     {
       "full_name": "ammaarreshi/Generals-Mac-iOS-iPad",
       "description": "Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.",
       "html_url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad",
-      "stargazers_count": 957,
-      "forks_count": 68,
+      "stargazers_count": 1072,
+      "forks_count": 77,
       "language": "C++",
       "topics": [
         "apple-silicon",
@@ -115,10 +104,21 @@
       "pushed_at": "2026-07-05T17:23:48Z"
     },
     {
+      "full_name": "jamesob/local-llm",
+      "description": "Everything I know about running LLMs locally",
+      "html_url": "https://github.com/jamesob/local-llm",
+      "stargazers_count": 1034,
+      "forks_count": 61,
+      "language": "Shell",
+      "topics": [],
+      "created_at": "2026-07-03T13:06:03Z",
+      "pushed_at": "2026-07-03T20:12:00Z"
+    },
+    {
       "full_name": "xuchonglang/investing-for-beginners",
       "description": "小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
       "html_url": "https://github.com/xuchonglang/investing-for-beginners",
-      "stargazers_count": 730,
+      "stargazers_count": 737,
       "forks_count": 39,
       "language": null,
       "topics": [
@@ -135,7 +135,7 @@
       "full_name": "jmerelnyc/Talos",
       "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
       "html_url": "https://github.com/jmerelnyc/Talos",
-      "stargazers_count": 715,
+      "stargazers_count": 720,
       "forks_count": 12,
       "language": "Python",
       "topics": [
@@ -156,36 +156,36 @@
     "full_name": "pewdiepie-archdaemon/odysseus",
     "description": "Self-hosted AI workspace. ",
     "html_url": "https://github.com/pewdiepie-archdaemon/odysseus",
-    "stargazers_count": 81039,
-    "forks_count": 10630,
+    "stargazers_count": 81109,
+    "forks_count": 10639,
     "language": "Python",
     "topics": [],
     "created_at": "2026-05-31T14:05:51Z",
     "pushed_at": "2026-07-06T00:18:55Z"
   },
-  "signalArticle": "This week, a repository named `elder-plinius/T3MP3ST` ignited the GitHub feeds, rapidly accumulating over 2,000 stars for its audacious proposition: an autonomous red teaming platform. Billed as a \"multi-agent offensive-security meta-harness,\" T3MP3ST isn't just another penetration testing tool; it represents a significant leap towards fully automated, AI-driven adversarial simulations. Written in TypeScript, its sudden popularity underscores a palpable industry fascination – and perhaps a little apprehension – with the convergence of advanced AI agents and the critical domain of cybersecurity offense. This isn't theoretical AI; it's AI designed to find and exploit vulnerabilities, right now.\n\nThe emergence of T3MP3ST highlights a critical turning point in the cybersecurity landscape. For years, red teaming has been a labor-intensive, highly skilled manual process, often struggling to keep pace with the ever-expanding attack surface and the ingenuity of human threat actors. T3MP3ST, by leveraging a multi-agent architecture, aims to mimic complex adversarial thought processes, autonomously identifying targets, crafting strategies, and executing attacks. This pushes the industry further into the inevitable \"AI vs. AI\" arms race, where defense strategies must evolve beyond reactive measures to anticipate and neutralise intelligent, automated threats.\n\nFor developers, T3MP3ST offers a compelling case study in cutting-edge agent-based AI implementation and a template for building sophisticated, autonomous systems in TypeScript. For tech watchers and security professionals, it’s a powerful signal of the next frontier in cybersecurity. This platform not only previews the future of offensive security but also demands immediate re-evaluation of defensive strategies. As AI-powered attacks become more sophisticated and self-directing, understanding the capabilities demonstrated by projects like T3MP3ST is no longer optional; it is essential for anyone building, defending, or overseeing digital infrastructure.",
-  "hoodArticle": "The `xuchonglang/investing-for-beginners` repository exhibits an interesting architectural decision: a pure static content model hosted directly on GitHub, functioning as a lightweight knowledge management system. Its \"Language: Unknown\" designation and \"knowledge framework\" description strongly imply an information architecture built entirely upon structured Markdown files within a hierarchical directory schema. This approach leverages GitHub's inherent capabilities—version control for content management, pull requests for collaborative contributions, and native Markdown rendering—to deliver a comprehensive educational resource on US stocks, options, and cryptocurrency without requiring a dedicated web server or custom frontend.\n\nThe core problem solved at a technical level is efficient, maintainable content dissemination for an evolving knowledge base targeting beginners. The implementation approach stands out by fully embracing GitHub as its platform, effectively using the repository structure itself as a navigational and organizational schema. Markdown files serve as the primary content units, allowing for plain-text editing and seamless integration with Git workflows. This design choice sidesteps the overhead of traditional content management systems, prioritizing accessibility and ease of contribution through familiar developer tools, while ensuring version integrity and a low operational footprint for the \"Xiao Yin Si Investment Encyclopedia.\"",
-  "ideaArticle": "Imagine having a highly intelligent AI assistant, much like the advanced chat bots you're familiar with, but instead of living in a giant company's cloud, it runs entirely on your own computer or server. This project, Hermex, provides the missing link: a sleek, native iPhone app designed specifically to be the friendly interface for that private AI. At its core, it's your personal remote control, letting you converse with, query, and command your self-hosted AI directly from your phone. It transforms a powerful, private system into a readily accessible tool in your pocket, bringing your AI out of the server and into your daily life.\n\nThis addresses a crucial need for control and privacy in the age of widespread AI. While many excellent AI tools are cloud-based, using them often means entrusting sensitive data to third parties. Hermex caters to individuals and organizations prioritizing local, secure information. It’s perfect for the privacy-conscious founder or professional handling confidential data, or the tech-savvy individual who relishes customizing and fully owning their digital tools. Anyone who desires AI's immense power without compromising data sovereignty or being beholden to external providers will find Hermex an invaluable bridge to their own, personal AI universe.",
+  "signalArticle": "This week, `elder-plinius/T3MP3ST` has stormed the GitHub trending charts, capturing over 2400 stars with its audacious vision: an autonomous red teaming platform. Billed as a multi-agent offensive-security meta-harness, T3MP3ST represents a significant leap from manual penetration testing. In an era where adversaries leverage sophisticated, automated tactics, the ability to deploy AI-driven agents to proactively test and secure systems isn't just an advantage; it's rapidly becoming a necessity, offering a scalable and relentless defense against ever-evolving digital threats.\n\nThe emergence of T3MP3ST speaks to a critical inflection point in cybersecurity. For too long, organizations have grappled with the labor-intensive, often reactive nature of security testing, struggling to match the speed and scale of modern attack surfaces. This project squarely addresses that challenge by tapping into the burgeoning field of multi-agent AI. It’s part of a broader trend where complex, strategic tasks—once solely the domain of human experts—are being augmented, and in some cases, redefined by intelligent autonomous systems, pushing the boundaries of what's possible in proactive threat emulation.\n\nFor developers, T3MP3ST offers a fascinating glimpse into the practical application of cutting-edge AI and agentic architectures within a high-stakes domain, built robustly in TypeScript. It's a masterclass in leveraging distributed systems for offensive security. For tech watchers, this project isn't merely a trending repo; it's a potent indicator of how AI is fundamentally reshaping the security landscape. Its rapid ascent signals a future where defensive posture is continuously challenged and hardened by intelligent automation, demanding a reassessment of traditional security roles and an embrace of AI-powered paradigms to stay ahead.",
+  "hoodArticle": "The repository `xuchonglang/investing-for-beginners` presents an interesting architectural approach for structuring and disseminating complex financial knowledge. Rather than a traditional codebase, it functions as a highly organized knowledge base leveraging GitHub's native content rendering capabilities. Its core strength lies in its modular directory structure, where distinct investment domains like \"美股\" (US Stocks), \"期权\" (Options), and \"加密货币\" (Cryptocurrency) form top-level categories. Within these, subdirectories and Markdown files create a hierarchical \"知识框架\" (knowledge framework), allowing for deep dives into specific concepts while maintaining a clear navigational path. This self-contained, plaintext approach implicitly leverages version control for content evolution, providing a robust and transparent audit trail for educational material updates.\n\nAt a technical level, this repository addresses the fundamental problem of organizing and making accessible a vast, often fragmented, body of investment education material. The implementation stands out by forgoing custom content management systems or complex static site generators in favor of a pure Markdown and directory-based strategy. This \"GitHub-native\" approach minimizes operational overhead, allowing contributors to focus solely on content creation and refinement without needing specialized tooling beyond a text editor and Git client. Internal linking between Markdown files establishes a graph-like structure of interconnected concepts, facilitating cross-referencing and contextual understanding. The deliberate choice of a minimalist implementation fosters high content velocity and lowers the barrier to contribution, effectively turning GitHub into a collaborative platform for knowledge curation.",
+  "ideaArticle": "Hermex offers a fascinating glimpse into the future of personal AI. At its core, this project provides a native iPhone application designed to connect directly to your own self-hosted AI assistant, referred to here as a \"Hermes agent.\" Imagine having a powerful, intelligent companion on your phone that's completely yours – its brain lives on your own server or computer, not in a giant tech company's cloud. This means Hermex isn't just another AI chatbot; it's a personalized window into an artificial intelligence you fully own and control, giving you a mobile interface for your private, custom-built AI.\n\nThis concept addresses a growing need for greater privacy and control in the age of large language models. While services like ChatGPT are immensely popular, many users are wary of sending sensitive data to third-party servers or desire the ability to deeply customize their AI. Hermex caters to those who want the power of AI assistance on the go, but with the assurance that their data stays private and their AI agent behaves exactly as they've configured it. This makes it ideal for privacy-conscious professionals, tech enthusiasts already experimenting with self-hosted AI, or even small businesses looking to deploy secure, bespoke AI tools for their teams without relying on external vendors.",
   "dropDescriptions": [
-    "Effortlessly spoof your iPhone's GPS location—no jailbreak required—with integrated proxy tool support.",
-    "Let Claude (or any LLM) truly \"watch\" videos locally, with intelligent frame and transcript processing.",
-    "The definitive guide to running powerful large language models directly on your local machine.",
-    "Relive Command & Conquer Generals: Zero Hour, playing natively on your Mac, iPhone, and iPad.",
-    "Your go-to guide for beginner investing in US stocks, options, and cryptocurrencies.",
-    "Share your GPU power to earn payouts by serving open-model AI inference jobs on the Talos network."
+    "Spoof your iPhone's GPS location easily, without jailbreak, with this standalone app.",
+    "Let any LLM truly \"watch\" and understand videos, locally and intelligently, from any source.",
+    "Relive Command & Conquer Generals: Zero Hour, running natively on your Mac, iPhone, or iPad.",
+    "Your essential guide to running powerful large language models (LLMs) right on your own machine.",
+    "A comprehensive and accessible guide for beginner investors navigating stocks, options, and crypto.",
+    "Earn crypto by contributing your GPU to the Talos network, powering AI inference jobs globally."
   ],
-  "resurrectionArticle": "Pewdiepie-archdaemon's `odysseus`, created in mid-2026, rapidly garnered over 80,000 stars, establishing itself as a pivotal self-hosted AI workspace. In an era increasingly dominated by proprietary cloud solutions, `odysseus` offered a powerful, open-source alternative. It championed developer sovereignty, providing an integrated environment for local training, fine-tuning, and deployment of early AI models, directly addressing burgeoning concerns around data privacy and vendor lock-in. It was a beacon for independent AI development.\n\nNow, after nearly two years of dormancy, `odysseus` is experiencing a remarkable resurgence, driven by significant shifts in the AI landscape. The escalating costs of cloud AI infrastructure, coupled with heightened demands for data privacy and control, have made self-hosting incredibly appealing. Crucially, the proliferation of highly capable, efficient small language models and robust open-source foundational models, optimized for local execution, aligns perfectly with `odysseus`'s original vision, making it an ideal, cost-effective platform for modern private AI.",
+  "resurrectionArticle": "This week's \"Resurrection\" brings us to the surprisingly named `odysseus` repository from `pewdiepie-archdaemon`, a self-hosted AI workspace that first caught fire in mid-2026. At a time when AI development was rapidly accelerating, `odysseus` promised a unified, local environment for experimenting with models, managing data, and running AI inference without the overhead or privacy concerns of cloud platforms. Its initial appeal lay in empowering individual developers and researchers with a personal AI sandbox, offering a level of control and a barrier against vendor lock-in that was highly sought after, quickly racking up over 81,000 stars before its active development tapered off.\n\nNow, after lying dormant for some time, `odysseus` is seeing a resurgence, likely due to several shifts in the AI ecosystem. The explosion of powerful, open-source large language models and diffusion models, alongside significant advancements in consumer-grade GPU capabilities, has made truly powerful local AI more accessible than ever before. Developers are increasingly looking for robust, self-hosted solutions to run these models, sidestep escalating cloud costs, and maintain full data privacy, especially with the growing interest in personal AI agents. `odysseus`, with its foundational promise of a controlled, local AI development hub, perfectly aligns with this renewed appetite for sovereign AI computation.",
   "numbers": {
     "repoCount": 25,
-    "totalStars": 15580,
-    "avgStars": 623,
+    "totalStars": 16484,
+    "avgStars": 659,
     "topLang": "Python",
     "mostForked": {
       "full_name": "elder-plinius/T3MP3ST",
       "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
       "html_url": "https://github.com/elder-plinius/T3MP3ST",
-      "stargazers_count": 2133,
-      "forks_count": 522,
+      "stargazers_count": 2421,
+      "forks_count": 585,
       "language": "TypeScript",
       "topics": [
         "agents",
@@ -195,7 +195,7 @@
         "redteam"
       ],
       "created_at": "2026-07-02T17:53:55Z",
-      "pushed_at": "2026-07-05T22:31:58Z"
+      "pushed_at": "2026-07-06T16:35:07Z"
     }
   }
 }
