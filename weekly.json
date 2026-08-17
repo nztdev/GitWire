@@ -1,13 +1,13 @@
 {
   "edition": "085",
   "weekRange": "17 Aug – 23 Aug, 2026",
-  "generatedAt": "2026-08-17T07:26:25Z",
+  "generatedAt": "2026-08-17T14:50:36Z",
   "lead": {
     "full_name": "deepseek-ai/deepseek-harness",
     "description": "DeepSeek Harness: Everything is a Plugin.",
     "html_url": "https://github.com/deepseek-ai/deepseek-harness",
-    "stargazers_count": 141197,
-    "forks_count": 14316,
+    "stargazers_count": 147115,
+    "forks_count": 15012,
     "language": "TypeScript",
     "topics": [
       "ai-agents",
@@ -16,42 +16,42 @@
       "dsh-plugin"
     ],
     "created_at": "2026-08-13T11:56:32Z",
-    "pushed_at": "2026-08-13T13:00:21Z"
+    "pushed_at": "2026-08-17T12:01:58Z"
   },
   "hoodRepo": {
-    "full_name": "xiaobright/dsh-anchored-standard",
-    "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
-    "html_url": "https://github.com/xiaobright/dsh-anchored-standard",
-    "stargazers_count": 3263,
-    "forks_count": 102,
-    "language": "JavaScript",
-    "topics": [
-      "deepseek",
-      "deepseek-harness",
-      "dsh-plugin",
-      "llm-agent"
-    ],
-    "created_at": "2026-08-14T14:06:39Z",
-    "pushed_at": "2026-08-17T06:19:58Z"
+    "full_name": "yjh051108/dsh-routing-suite",
+    "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
+    "html_url": "https://github.com/yjh051108/dsh-routing-suite",
+    "stargazers_count": 3427,
+    "forks_count": 79,
+    "language": "PowerShell",
+    "topics": [],
+    "created_at": "2026-08-14T21:20:55Z",
+    "pushed_at": "2026-08-15T20:29:05Z"
   },
   "ideaRepo": {
-    "full_name": "cordiverse/paper",
-    "description": "A Programming Paradigm for Spatiotemporal Composability",
-    "html_url": "https://github.com/cordiverse/paper",
-    "stargazers_count": 1997,
-    "forks_count": 77,
-    "language": null,
-    "topics": [],
-    "created_at": "2026-08-13T09:53:33Z",
-    "pushed_at": "2026-08-13T12:54:03Z"
+    "full_name": "dmmulroy/anti-slop",
+    "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
+    "html_url": "https://github.com/dmmulroy/anti-slop",
+    "stargazers_count": 2153,
+    "forks_count": 37,
+    "language": "TypeScript",
+    "topics": [
+      "agent-skills",
+      "linting",
+      "oxlint",
+      "typescript"
+    ],
+    "created_at": "2026-08-12T13:48:50Z",
+    "pushed_at": "2026-08-14T14:23:59Z"
   },
   "freshDrops": [
     {
       "full_name": "guillaumemeyer/watermarks-remover",
       "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "html_url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "stargazers_count": 12308,
-      "forks_count": 1320,
+      "stargazers_count": 12955,
+      "forks_count": 1390,
       "language": "Python",
       "topics": [
         "agent-skill",
@@ -69,8 +69,8 @@
       "full_name": "anywhere-labs/deepseek-harness-desktop",
       "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
       "html_url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
-      "stargazers_count": 10429,
-      "forks_count": 456,
+      "stargazers_count": 11336,
+      "forks_count": 505,
       "language": "TypeScript",
       "topics": [
         "cordis",
@@ -83,14 +83,14 @@
         "dsh-plugin-desktop"
       ],
       "created_at": "2026-08-13T16:30:50Z",
-      "pushed_at": "2026-08-17T07:07:41Z"
+      "pushed_at": "2026-08-17T14:40:07Z"
     },
     {
       "full_name": "awesome-dsh-plugin/awesome-dsh-plugin",
       "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
       "html_url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
-      "stargazers_count": 6536,
-      "forks_count": 953,
+      "stargazers_count": 7408,
+      "forks_count": 1046,
       "language": "Python",
       "topics": [
         "awesome",
@@ -100,14 +100,14 @@
         "dsh-plugin"
       ],
       "created_at": "2026-08-13T13:55:31Z",
-      "pushed_at": "2026-08-17T06:44:34Z"
+      "pushed_at": "2026-08-17T14:43:08Z"
     },
     {
       "full_name": "zhu1090093659/dsh-web-ui",
       "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
       "html_url": "https://github.com/zhu1090093659/dsh-web-ui",
-      "stargazers_count": 3781,
-      "forks_count": 225,
+      "stargazers_count": 4032,
+      "forks_count": 244,
       "language": "TypeScript",
       "topics": [
         "deepseek-harness",
@@ -116,14 +116,25 @@
         "web-ui"
       ],
       "created_at": "2026-08-12T05:15:20Z",
-      "pushed_at": "2026-08-17T05:43:18Z"
+      "pushed_at": "2026-08-17T10:28:34Z"
+    },
+    {
+      "full_name": "yjh051108/dsh-routing-suite",
+      "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
+      "html_url": "https://github.com/yjh051108/dsh-routing-suite",
+      "stargazers_count": 3427,
+      "forks_count": 79,
+      "language": "PowerShell",
+      "topics": [],
+      "created_at": "2026-08-14T21:20:55Z",
+      "pushed_at": "2026-08-15T20:29:05Z"
     },
     {
       "full_name": "xiaobright/dsh-anchored-standard",
       "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
       "html_url": "https://github.com/xiaobright/dsh-anchored-standard",
-      "stargazers_count": 3263,
-      "forks_count": 102,
+      "stargazers_count": 3390,
+      "forks_count": 103,
       "language": "JavaScript",
       "topics": [
         "deepseek",
@@ -133,53 +144,42 @@
       ],
       "created_at": "2026-08-14T14:06:39Z",
       "pushed_at": "2026-08-17T06:19:58Z"
-    },
-    {
-      "full_name": "yjh051108/dsh-routing-suite",
-      "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
-      "html_url": "https://github.com/yjh051108/dsh-routing-suite",
-      "stargazers_count": 3123,
-      "forks_count": 76,
-      "language": "PowerShell",
-      "topics": [],
-      "created_at": "2026-08-14T21:20:55Z",
-      "pushed_at": "2026-08-15T20:29:05Z"
     }
   ],
   "resurrection": {
-    "full_name": "garrytan/gstack",
-    "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-    "html_url": "https://github.com/garrytan/gstack",
-    "stargazers_count": 128306,
-    "forks_count": 19312,
-    "language": "TypeScript",
+    "full_name": "ultraworkers/claw-code",
+    "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+    "html_url": "https://github.com/ultraworkers/claw-code",
+    "stargazers_count": 195056,
+    "forks_count": 109079,
+    "language": "Rust",
     "topics": [],
-    "created_at": "2026-03-11T21:22:45Z",
-    "pushed_at": "2026-08-17T03:40:09Z"
+    "created_at": "2026-03-31T08:58:08Z",
+    "pushed_at": "2026-08-16T06:18:45Z"
   },
-  "signalArticle": "DeepSeek AI has captured the attention of the developer community this week with its rapidly trending `deepseek-harness` repository, skyrocketing past 140,000 stars. Billed as \"Everything is a Plugin,\" this TypeScript-based AI agent harness offers a compelling modular framework for building and deploying intelligent systems. Its sudden ascent underscores a critical need for flexible, extensible architectures in the burgeoning AI agent landscape, providing developers with a robust foundation to overcome the inherent complexities of agent design and integration right now. This isn't just another library; it's a blueprint for the next generation of AI applications.\n\nThe challenge of constructing sophisticated AI agents often lies in managing their myriad components, from tool integration to state management and interaction flows. `deepseek-harness` addresses this head-on by leveraging a deeply embedded plugin system, powered by technologies like Cordis, to allow every function and feature to be a swappable, independent module. This approach is a direct response to the industry's push for more composable AI, moving away from rigid, monolithic agent designs towards highly adaptable systems that can evolve and integrate new capabilities with unprecedented ease. It champions an architectural paradigm shift essential for scaling AI agent development.\n\nFor developers, `deepseek-harness` presents a significant opportunity to streamline the creation of complex AI agents, reducing boilerplate and accelerating time to market with its elegant, plugin-centric design. It offers a standardized yet flexible way to experiment with and deploy cutting-edge agentic behaviors. For tech watchers, this project signals a crucial inflection point in AI infrastructure. DeepSeek AI's commitment to an open, modular harness suggests a strategic play to standardize agent development, potentially influencing how future AI systems are conceived, built, and interact. Its success could set a new benchmark for openness and extensibility in the agent economy.",
-  "hoodArticle": "The `dsh-anchored-standard` repository presents an innovative two-phase execution strategy for DeepSeek Harness (DSH) agents via its \"anchored standard\" preset. Architecturally, it commences with a \"minimal-aligned bootstrap,\" establishing a constrained, stable operational context. This initial stage, likely focusing on core capabilities, effectively \"anchors\" the agent's subsequent behavior. The DSH agent then transitions to a comprehensive \"full Standard tools\" suite (Project2 98/99). This staged approach inherently prevents instability and over-contextualization often associated with immediately exposing agents to vast tool libraries, enabling gradual complexity integration.\n\nThis preset fundamentally solves the problem of robustly scaling LLM agent capabilities without sacrificing reliability. Naively equipping agents with a vast, undifferentiated toolset often causes \"tool confusion,\" leading to suboptimal outcomes. The implementation stands out by programmatically defining and enforcing these two distinct operational phases within DSH. The initial bootstrap deploys a minimal, curated set of DSH plugins for foundational tasks, dynamically expanding to a broader, standardized toolset. This progressive enablement, managed as a DSH preset, empowers developers to build complex, multi-step agent workflows evolving from basic understanding to advanced orchestration, significantly improving intricate task handling via a structured pathway.",
-  "ideaArticle": "This project introduces a new way to design software, especially for systems where \"when\" and \"where\" an event occurs are as vital as \"what\" happens. Think about orchestrating thousands of concurrent actions across various locations—like tracking a global supply chain, managing city-wide sensor data, or coordinating players in an online game. Traditional methods often complicate the integration of these space- and time-dependent elements, leading to brittle, complex solutions. This innovative approach provides a structured framework, allowing all these disparate, dynamic components to work together seamlessly, making intricate systems much easier to design, manage, and scale efficiently.\n\nThe core human need this addresses is the struggle to manage complexity in our increasingly interconnected, real-world systems. As our environment digitizes, we're inundated with data inherently tied to specific times and places. Innovators in fields like smart infrastructure, advanced logistics, autonomous vehicles, and immersive digital worlds desperately need better tools to model and control these intricate, dynamic environments. This framework could become a foundational tool for product managers and engineers, offering a more intuitive and robust method to compose and reason about the vast, time-sensitive interactions that define future technologies.",
+  "signalArticle": "DeepSeek AI's DeepSeek Harness, a TypeScript project touting \"Everything is a Plugin,\" has rapidly become a GitHub sensation this week, accumulating over 147,000 stars. This trending repository offers a robust, modular framework engineered for building AI agents, resonating strongly with developers grappling with autonomous systems. Its immediate relevance stems from the industry's fervent push towards sophisticated, adaptable AI agents, where Harness provides a structured yet flexible architecture crucial for rapid experimentation and deployment in this fast-evolving domain.\n\nThe core problem DeepSeek Harness addresses lies in the inherent messiness and lack of interoperability plaguing the burgeoning AI agent space. As AI models grow, the challenge shifts from training to orchestrating complex, multi-tool agents that can dynamically adapt. Harness taps into the established \"plugin\" paradigm, offering a Cordis-powered ecosystem where functionalities, tools, and behaviors can be effortlessly snapped into place. This approach streamlines development, pointing towards a future of highly composable, scalable AI systems.\n\nFor developers, DeepSeek Harness represents a significant leap towards simplifying AI agent creation, lowering the barrier to entry for complex workflows and fostering a vibrant community around shared tools. Tech watchers should view its trajectory as an important indicator: the industry is actively seeking standard, extensible frameworks to move beyond one-off scripts into industrial-grade AI deployments. Its rapid ascent signals a collective desire for modularity and reusability, positioning Harness as a potential cornerstone for the next generation of intelligent applications.",
+  "hoodArticle": "The dsh-routing-suite offers an intriguing architectural approach to dynamic task orchestration in PowerShell, centered around a \"runtime injector\" and a \"task-aware reasoning-mode router.\" This design fundamentally shifts execution path determination from static scripting to an adaptive, intelligent system. The \"runtime injector\" is key, likely intercepting or augmenting PowerShell execution flows to enable the router to dynamically influence script behavior without deep task modification. This suggests an aspect-oriented programming paradigm, applying sophisticated routing patterns, typically found in higher-level application frameworks, directly within PowerShell's scripting and automation domain.\n\nAt a code level, this suite solves the critical problem of managing complex, adaptive workflows where execution paths depend on real-time conditions or task attributes. Without it, developers often build brittle `if/else` cascades or rely on external orchestrators, hindering PowerShell project maintainability and scalability. The dsh-routing-suite stands out by implementing its \"task-aware reasoning-mode\" router directly in PowerShell, featuring pre-defined \"presets\" (P1-P23) encapsulating advanced decision logic. This enables nuanced routing based on context, resource availability, or performance objectives. Its technical distinction lies in integrating this intelligence via a \"runtime injector,\" dynamically applying policies to existing or new tasks without extensive refactoring, providing a robust, native PowerShell solution for self-optimizing automation pipelines.",
+  "ideaArticle": "At its core, this project provides an automated quality check for software code, much like a meticulous editor refines a manuscript. It's designed to identify and flag subtle programming habits that, while technically correct, often lead to confusion, hidden bugs, or significant maintenance headaches further down the line. Think of it as a smart assistant guiding developers away from \"low-evidence\" patterns – choices that historically create more problems than they solve. The real goal is to proactively ensure software is built on a clear, robust foundation, preventing messy, difficult-to-understand code before it's even written.\n\nThis tool addresses a crucial need for reliability and efficiency in software development. Poor code quality inevitably leads to more bugs, slower feature delivery, and higher long-term costs. Founders would love this for building a robust product foundation, proactively minimizing technical debt that can cripple growth. Product managers would appreciate fewer bug reports and more predictable development cycles, leading to a better user experience. Essentially, anyone responsible for delivering quality software—from startups to established teams—will find immense value in automatically preventing common pitfalls before they become expensive problems.",
   "dropDescriptions": [
-    "Erase AI watermarks and digital provenance from all your files, from images to documents.",
-    "A flexible desktop solution for DeepSeek Harness, treating everything, even the desktop, as a plugin.",
-    "Discover the best DeepSeek Harness plugins with this essential, curated \"awesome\" list.",
-    "Supercharge your DeepSeek Harness Web UI with diverse plugins, custom skins, and even a digital pet.",
-    "Get DeepSeek Harness running fast with this two-phase preset, from minimal bootstrap to full tools.",
-    "Inject intelligent, task-aware routing capabilities into DeepSeek Harness for advanced, efficient workflows."
+    "This Python tool cleanly strips AI provenance watermarks and metadata from various files.",
+    "Modern desktop solution for the DeepSeek Harness (DSH) plugin ecosystem; everything is a plugin!",
+    "The ultimate curated list of awesome plugins to power up your DeepSeek Harness (DSH).",
+    "Supercharge your DeepSeek Harness Web UI with this rich collection of plugins and stylish skins.",
+    "Elevate DSH with this routing suite, featuring a runtime injector and smart, task-aware router.",
+    "Get started fast with this two-phase DSH preset: minimal bootstrap, then a full suite of standard tools."
   ],
-  "resurrectionArticle": "Garry Tan's gstack, launched in early 2026, quickly captured attention as an ambitious blueprint for AI-driven development. Billed as his \"exact Claude Code setup,\" it comprised 23 opinionated AI tools designed to automate the entire software lifecycle – from CEO roles to QA. Its original significance lay in its audacious vision: a fully autonomous, AI-powered \"mini-company\" leveraging advanced LLMs like Claude to drastically reduce human intervention and streamline operations, capturing the industry's imagination with its promise of unprecedented lean efficiency.\n\nThe initial ambition of gstack was perhaps ahead of its time, but it's resurfacing due to crucial advancements in the AI ecosystem. Newer, more robust LLM models offer significantly improved reliability and long-context capabilities, finally making complex multi-agent systems like gstack truly practical. Concurrently, the maturation of AI orchestration frameworks and better debugging tools simplifies implementation. As economic pressures drive renewed interest in extreme automation, gstack’s opinionated, full-stack approach is now a proven template for maximizing efficiency with today's significantly more capable AI infrastructure.",
+  "resurrectionArticle": "\"ultraworkers/claw-code,\" launched in early 2026, was a landmark project: an agent-managed museum exhibit built entirely in Rust with Gajae-Code and LazyCodex, famously maintained with *zero* human intervention. It wasn't just AI-assisted coding, but a pioneering demonstration of fully autonomous software engineering, proving self-evolving agents could conceive, build, and operate complex public-facing applications. This fundamentally challenged human-centric development, igniting profound debates about AI's ultimate role.\n\nIts renewed prominence truly reflects today's ecosystem. With multi-agent architectures rapidly maturing and verification tools for AI-generated code improving, Claw-Code's once-futuristic vision is now practically actionable. It’s resurfacing as a crucial historical case study for developers building truly autonomous, self-sustaining software. Its lessons on continuous, agent-driven evolution are incredibly pertinent, offering a prescient glimpse into the challenges and opportunities of an increasingly agentic future.",
   "numbers": {
     "repoCount": 25,
-    "totalStars": 199539,
-    "avgStars": 7982,
+    "totalStars": 209791,
+    "avgStars": 8392,
     "topLang": "TypeScript",
     "mostForked": {
       "full_name": "deepseek-ai/deepseek-harness",
       "description": "DeepSeek Harness: Everything is a Plugin.",
       "html_url": "https://github.com/deepseek-ai/deepseek-harness",
-      "stargazers_count": 141197,
-      "forks_count": 14316,
+      "stargazers_count": 147115,
+      "forks_count": 15012,
       "language": "TypeScript",
       "topics": [
         "ai-agents",
@@ -188,7 +188,7 @@
         "dsh-plugin"
       ],
       "created_at": "2026-08-13T11:56:32Z",
-      "pushed_at": "2026-08-13T13:00:21Z"
+      "pushed_at": "2026-08-17T12:01:58Z"
     }
   }
 }
