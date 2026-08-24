@@ -1,13 +1,13 @@
 {
   "edition": "086",
   "weekRange": "24 Aug – 30 Aug, 2026",
-  "generatedAt": "2026-08-24T07:32:23Z",
+  "generatedAt": "2026-08-24T15:09:15Z",
   "lead": {
     "full_name": "s1dashu/ip-as-logo-skill",
     "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
     "html_url": "https://github.com/s1dashu/ip-as-logo-skill",
-    "stargazers_count": 3990,
-    "forks_count": 191,
+    "stargazers_count": 4065,
+    "forks_count": 195,
     "language": null,
     "topics": [
       "codex",
@@ -20,32 +20,22 @@
     "pushed_at": "2026-08-22T16:48:59Z"
   },
   "hoodRepo": {
-    "full_name": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
-    "description": "DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装",
-    "html_url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget",
-    "stargazers_count": 776,
-    "forks_count": 32,
-    "language": "JavaScript",
-    "topics": [
-      "cordis",
-      "deepseek",
-      "deepseek-harness",
-      "developer-tools",
-      "dsh",
-      "dsh-plugin",
-      "dsh-plugins",
-      "floating-widget",
-      "plugin"
-    ],
-    "created_at": "2026-08-18T03:13:51Z",
-    "pushed_at": "2026-08-24T04:41:06Z"
+    "full_name": "b-nnett/grok-bot-0.18-reconstructed",
+    "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
+    "html_url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
+    "stargazers_count": 1098,
+    "forks_count": 1181,
+    "language": "TypeScript",
+    "topics": [],
+    "created_at": "2026-08-23T20:53:01Z",
+    "pushed_at": "2026-08-23T20:53:35Z"
   },
   "ideaRepo": {
     "full_name": "cclank/lanshu-create-ai-presenter-video",
     "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
     "html_url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
-    "stargazers_count": 723,
-    "forks_count": 123,
+    "stargazers_count": 811,
+    "forks_count": 139,
     "language": "Python",
     "topics": [
       "ai-video",
@@ -62,8 +52,8 @@
       "full_name": "MengTo/threeui",
       "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
       "html_url": "https://github.com/MengTo/threeui",
-      "stargazers_count": 3145,
-      "forks_count": 308,
+      "stargazers_count": 3316,
+      "forks_count": 319,
       "language": "HTML",
       "topics": [
         "react",
@@ -79,7 +69,7 @@
       "full_name": "wang2122/sprix-sage-router",
       "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
       "html_url": "https://github.com/wang2122/sprix-sage-router",
-      "stargazers_count": 1635,
+      "stargazers_count": 1755,
       "forks_count": 23,
       "language": "Python",
       "topics": [
@@ -99,8 +89,8 @@
       "full_name": "vvxw/deploy-vercel",
       "description": "Install Command：npm install",
       "html_url": "https://github.com/vvxw/deploy-vercel",
-      "stargazers_count": 1241,
-      "forks_count": 263,
+      "stargazers_count": 1290,
+      "forks_count": 266,
       "language": "JavaScript",
       "topics": [],
       "created_at": "2026-08-18T13:25:45Z",
@@ -110,8 +100,8 @@
       "full_name": "duty1g/x64dbg-mcp-server",
       "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
       "html_url": "https://github.com/duty1g/x64dbg-mcp-server",
-      "stargazers_count": 1027,
-      "forks_count": 100,
+      "stargazers_count": 1135,
+      "forks_count": 112,
       "language": "Zig",
       "topics": [
         "ai-agents",
@@ -135,14 +125,25 @@
         "ziglang"
       ],
       "created_at": "2026-08-22T14:28:41Z",
-      "pushed_at": "2026-08-24T07:21:49Z"
+      "pushed_at": "2026-08-24T08:42:34Z"
+    },
+    {
+      "full_name": "b-nnett/grok-bot-0.18-reconstructed",
+      "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
+      "html_url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
+      "stargazers_count": 1098,
+      "forks_count": 1181,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-08-23T20:53:01Z",
+      "pushed_at": "2026-08-23T20:53:35Z"
     },
     {
       "full_name": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
       "description": "DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装",
       "html_url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget",
-      "stargazers_count": 776,
-      "forks_count": 32,
+      "stargazers_count": 840,
+      "forks_count": 34,
       "language": "JavaScript",
       "topics": [
         "cordis",
@@ -157,78 +158,46 @@
       ],
       "created_at": "2026-08-18T03:13:51Z",
       "pushed_at": "2026-08-24T04:41:06Z"
-    },
-    {
-      "full_name": "ShadowAqueduct/watermark-remover",
-      "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
-      "html_url": "https://github.com/ShadowAqueduct/watermark-remover",
-      "stargazers_count": 761,
-      "forks_count": 73,
-      "language": "Python",
-      "topics": [
-        "claude-ai",
-        "claude-code",
-        "claude-code-plugin",
-        "claude-skills",
-        "codex",
-        "codex-cli",
-        "codex-skill",
-        "codex-skills",
-        "watermark"
-      ],
-      "created_at": "2026-08-23T21:14:28Z",
-      "pushed_at": "2026-08-23T22:07:11Z"
     }
   ],
   "resurrection": {
-    "full_name": "JuliusBrussee/caveman",
-    "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-    "html_url": "https://github.com/JuliusBrussee/caveman",
-    "stargazers_count": 100555,
-    "forks_count": 5841,
-    "language": "Go",
-    "topics": [
-      "ai",
-      "anthropic",
-      "caveman",
-      "claude",
-      "claude-code",
-      "llm",
-      "meme",
-      "prompt-engineering",
-      "skill",
-      "tokens"
-    ],
-    "created_at": "2026-04-04T10:03:00Z",
-    "pushed_at": "2026-08-24T00:25:15Z"
+    "full_name": "garrytan/gstack",
+    "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+    "html_url": "https://github.com/garrytan/gstack",
+    "stargazers_count": 129422,
+    "forks_count": 19486,
+    "language": "TypeScript",
+    "topics": [],
+    "created_at": "2026-03-11T21:22:45Z",
+    "pushed_at": "2026-08-22T02:22:16Z"
   },
-  "signalArticle": "The GitHub repository `s1dashu/ip-as-logo-skill` rocketed to the top of trending charts this week, racking up nearly 4,000 stars for its surprisingly specific and aesthetically pleasing purpose. Described as a compact Agent Skill, it generates highly simplified, rounded, subtly neo-skeuomorphic mascot logos from a given concept. This isn't another generic image generator; it’s a finely tuned instrument for crafting distinctive, contemporary visual identities with remarkable ease, making professional-grade branding accessible to anyone. Its instant popularity underscores a growing hunger for AI tools delivering quality and stylistic coherence in creative outputs.\n\nThis project sits at the confluence of several significant trends: the democratization of design, specialized AI agents, and a resurgence of specific aesthetics. In an era where every project benefits from a polished visual identity, `ip-as-logo-skill` addresses the critical need for quick, high-quality branding without requiring a dedicated designer. It exemplifies AI's power to move beyond broad generative tasks into highly niche, style-constrained creation. Its embrace of neo-skeuomorphism – blending modern flatness with subtle three-dimensional touches – reflects a current design sensibility increasingly popular with designers and consumers alike.\n\nFor developers, this repository offers more than just a convenient tool; it's a blueprint for the next generation of AI-powered creative solutions. It demonstrates how specialized \"skills\" integrate into broader AI agent ecosystems, providing robust, on-demand capabilities previously requiring significant human expertise. Tech watchers should view `ip-as-logo-skill` as a tangible marker of AI's deepening penetration into creative industries. It highlights a future where AI autonomously generates stylized output meeting specific aesthetic demands, potentially redefining workflows for designers, marketers, and small businesses seeking instant, memorable brand presence.",
-  "hoodArticle": "This repository presents a client-side JavaScript widget designed for unobtrusive integration into the DeepSeek Harness (DSH) web application. Operating as a DSH plugin, its architecture hinges on direct DOM manipulation and potentially leveraging an undocumented or an implicit DSH plugin system, allowing the execution of arbitrary JavaScript within the DSH interface's context. This enables the persistent rendering of a \"floating-widget\" UI element, specifically positioned in the bottom-right corner. The technical approach is notable for achieving seamless, persistent presence without server-side modifications, relying purely on front-end injection and styling to extend DSH's functionality and enhance its user experience.\n\nThe core problem solved at a code level is providing immediate, always-visible access to a DeepSeek account balance, eliminating the need for users to navigate away from their current DSH view. The implementation stands out for its high degree of user experience refinement. It employs sophisticated JavaScript for dynamic interaction, supporting draggable positioning with \"snap-to-edge\" mechanics and adaptive UI adjustments, such as flipping the widget when snapped to the left. Furthermore, the \"number scrolling animation\" for balance updates showcases a deliberate investment in polished front-end animation techniques, transforming a simple data display into an engaging and fluid visual feedback mechanism within a third-party application.",
-  "ideaArticle": "At its core, the Lanshu project offers a remarkably straightforward way to create professional presenter videos. Imagine simply providing a written script and a picture of a person, and then receiving a polished video of that individual speaking your exact words. It bypasses all the traditional complexities of video production – no cameras, no studio time, no hiring actors. Instead, you supply the text and an authorized image, and the system intelligently brings that \"digital human\" to life, creating a realistic, high-quality video where your chosen presenter delivers the message effortlessly. It’s about transforming static elements into dynamic, engaging spoken content.\n\nThis innovative approach addresses a crucial gap: the demand for scalable, affordable, and high-quality video content without the usual hurdles. Founders can quickly generate professional pitches or product explainers, eliminating the need for a large production budget. Product managers can develop engaging tutorials or feature walkthroughs that feel personal yet are easily updated. Marketing teams benefit from consistent brand messaging delivered by familiar faces, building a vast content library without requiring specific individuals to be available for every shoot. Ultimately, anyone needing to communicate effectively through video – from educators to sales teams – gains a powerful tool to produce professional content rapidly and consistently, democratizing sophisticated video creation.",
+  "signalArticle": "This week, a fascinating project shot up the GitHub trending list, captivating developers with its unique blend of AI utility and playful design. `s1dashu/ip-as-logo-skill` is a compact Agent Skill designed to transform an IP address into a distinct, subtly neo-skeuomorphic mascot logo. Amassing over 4,000 stars, this repository perfectly encapsulates the current zeitgeist of hyper-personalized digital assets and the burgeoning ecosystem of AI agents, demonstrating how even abstract network identifiers can be imbued with visual personality and character right now.\n\nThe project itself is a striking example of the broader trend toward specialized generative AI tools operating within agent frameworks. It tackles the challenge of digital identity and branding with a novel twist, offering a highly simplified, rounded aesthetic that taps into the resurgence of neo-skeuomorphism in design. Rather than aiming for photorealism, this skill leverages AI to create unique, stylized mascots, illustrating how artificial intelligence can move beyond generic image generation to craft highly specific, context-aware visual outputs that feel both familiar and futuristic.\n\nFor developers, `s1dashu/ip-as-logo-skill` is more than a novelty; it's a potent demonstration of the modularity and composability of modern AI systems. It highlights how concise, purpose-built \"skills\" can extend the capabilities of larger AI agents, unlocking new avenues for automation and creative application. For tech watchers, this project signals the increasing granularity and specialization of AI in creative fields. It suggests a future where every digital entity, from an IP address to a microservice, could potentially possess its own AI-generated, distinct visual identity, blurring the lines between data, design, and personalized branding.",
+  "hoodArticle": "The `grok-bot-0.18-reconstructed` repository showcases a significant technical feat in \"source-oriented reconstruction.\" Its architectural interest stems from the complete reimplementation of Grok Bot 0.18.0, a proprietary macOS application, without original source access. This demanded extensive reverse engineering to deduce the legacy binary's internal logic, observed behaviors, and underlying protocols. Leveraging TypeScript, the project adopts a modern, type-safe approach, likely employing Node.js for core logic and potentially Electron for the macOS application layer. This unofficial reconstruction, designed for extensions, underlines a commitment to accurately replicating complex legacy functionality within a modern, maintainable technology stack.\n\nThis repository directly solves the problem of maintaining and extending unmaintained, closed-source legacy software. By meticulously emulating the original Grok Bot's functionality, it provides a transparent, auditable, and extensible codebase where none existed. The implementation stands out by translating intricate observed behaviors—including internal state transitions, user interactions, and external API integrations—into a modular, well-structured TypeScript application. This not only achieves precise functional parity but also enables future development and community contributions, effectively modernizing a critical tool from its opaque binary form and ensuring its continued relevance.",
+  "ideaArticle": "At its core, this project offers a clever way to generate professional-looking videos starring an AI-powered human presenter. Imagine you have a script for a product demo, an explainer, or a personalized message. Instead of needing a camera, lights, and an actor, you simply provide your text and an authorized image of the person you want as your spokesperson. This tool then brings that image to life, animating it to flawlessly deliver your script with natural lip-syncing and facial expressions. It’s like having a digital actor and a miniature production studio at your fingertips, letting you create polished video content without the traditional hassle, flexible across various underlying AI systems.\n\nThis innovative approach addresses a significant need in today’s content-heavy world: the demand for high-quality video without the immense cost, time, and logistical complexities of traditional production. Who needs this? Founders and startups can produce compelling pitch videos or product walkthroughs on a tight budget. Marketers can generate a constant stream of engaging ad creatives or personalized outreach. Educators can create dynamic e-learning modules, and product managers can easily explain new features. Essentially, anyone needing to communicate effectively and engagingly through video, but lacking the resources for a full production studio, would find immense value in democratizing professional video creation.",
   "dropDescriptions": [
-    "Discover ThreeUI's open-source library: stunning, interactive web components for your next project.",
-    "Sprix AI intelligently routes tasks across agent networks, boosting efficiency with smart collaboration.",
-    "Streamline your Vercel deployments effortlessly with this handy JavaScript package.",
-    "Programmatically control x64dbg via HTTP, allowing AI assistants to effortlessly debug and analyze code.",
-    "A cute, animated whale widget that playfully tracks your DeepSeek account balance on screen.",
-    "Erase AI watermarks and metadata from images, text, and documents to ensure content privacy."
+    "Explore a vibrant community catalog of interactive ThreeUI components, ready for your next project.",
+    "Sprix AI offers intelligent, state-aware routing for autonomous agent networks, optimizing collaboration and handoffs.",
+    "Streamline your Vercel deployments with this handy JavaScript package, making installation a breeze.",
+    "Control your x64dbg debugger programmatically via HTTP, enabling AI assistants to step through code and more!",
+    "Unofficial, reconstructed Grok Bot 0.18.0 for macOS, offering extended functionality and source-oriented insights.",
+    "A playful DeepSeek Harness widget: a little whale keeps an eye on your account balance with style and charm."
   ],
-  "resurrectionArticle": "JuliusBrussee/caveman exploded in 2026, introducing a \"Claude Code skill\" that cut prompt tokens by 65%. Its mantra, \"why use many token when few token do trick,\" trained AI to communicate in minimalist \"caveman\" style. This was revolutionary: tight token limits and high costs meant efficiency was paramount. `Caveman` allowed users to pack more context into prompts, significantly reducing API expenses when resources were constrained, fundamentally changing generative AI optimization.\n\nToday, `caveman` sees an unexpected resurgence. While token costs have dropped and context windows expanded, its efficiency principle remains vital. Massive AI deployments mean tiny per-token savings accumulate into colossal operational reductions. Crucially, modern models are so sophisticated they perfectly understand these concise inputs, meaning the \"caveman\" style no longer sacrifices output quality. It proves simple, efficient communication offers a powerful, enduring edge in today's evolving AI landscape.",
+  "resurrectionArticle": "Garry Tan's `gstack`, launched in March 2026, was a groundbreaking, opinionated vision for AI-driven entrepreneurship, instantly capturing attention. Billed as \"Garry Tan's exact Claude Code setup,\" this repository bundled 23 tools designed to collectively embody an entire startup team: CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA. Its initial significance transcended mere scripts; it was a comprehensive manifesto for a fully automated product lifecycle. The project originally mattered for its ambitious scope and its creator's reputation, offering a complete blueprint for an autonomous, AI-powered organization.\n\nNow, almost a year after its last update, `gstack` is experiencing a powerful resurgence. While initial enthusiasm for hyper-automated AI agents faced practical hurdles, recent advancements in large language model capabilities—particularly in complex reasoning, multi-agent orchestration, and persistent memory—have fundamentally shifted the ecosystem. What was an aspirational blueprint in early 2026 is now eminently more achievable. Developers are finding Tan's \"opinionated\" choices, once perhaps seen as rigid, are proving robust solutions, perfectly aligned with new AI breakthroughs, transforming `gstack` into a suddenly practical, battle-tested framework for autonomous development.",
   "numbers": {
     "repoCount": 25,
-    "totalStars": 21168,
-    "avgStars": 847,
+    "totalStars": 23244,
+    "avgStars": 930,
     "topLang": "Python",
     "mostForked": {
       "full_name": "amirh00sain/SpiderPanel",
       "description": null,
       "html_url": "https://github.com/amirh00sain/SpiderPanel",
-      "stargazers_count": 621,
-      "forks_count": 2024,
+      "stargazers_count": 650,
+      "forks_count": 2098,
       "language": "Python",
       "topics": [],
       "created_at": "2026-08-18T15:30:17Z",
-      "pushed_at": "2026-08-23T22:13:11Z"
+      "pushed_at": "2026-08-24T08:54:52Z"
     }
   }
 }
