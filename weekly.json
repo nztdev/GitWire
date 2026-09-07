@@ -1,13 +1,13 @@
 {
   "edition": "088",
   "weekRange": "7 Sep – 13 Sep, 2026",
-  "generatedAt": "2026-09-07T12:43:59Z",
+  "generatedAt": "2026-09-07T18:47:21Z",
   "lead": {
     "full_name": "lnkiai/m3e-canvas",
     "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
     "html_url": "https://github.com/lnkiai/m3e-canvas",
-    "stargazers_count": 4532,
-    "forks_count": 388,
+    "stargazers_count": 4621,
+    "forks_count": 395,
     "language": "TypeScript",
     "topics": [
       "design-tool",
@@ -26,31 +26,31 @@
     "full_name": "anthropics/fermats-last-theorem",
     "description": null,
     "html_url": "https://github.com/anthropics/fermats-last-theorem",
-    "stargazers_count": 897,
-    "forks_count": 73,
+    "stargazers_count": 927,
+    "forks_count": 78,
     "language": "Lean",
     "topics": [],
     "created_at": "2026-09-04T14:21:04Z",
     "pushed_at": "2026-09-04T14:59:12Z"
   },
   "ideaRepo": {
-    "full_name": "vinzdg/codenotch",
-    "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
-    "html_url": "https://github.com/vinzdg/codenotch",
-    "stargazers_count": 825,
-    "forks_count": 124,
-    "language": "Swift",
+    "full_name": "yczz/oc-english",
+    "description": "养成类游戏英语学习",
+    "html_url": "https://github.com/yczz/oc-english",
+    "stargazers_count": 848,
+    "forks_count": 13,
+    "language": "JavaScript",
     "topics": [],
-    "created_at": "2026-09-05T14:55:35Z",
-    "pushed_at": "2026-09-07T03:47:07Z"
+    "created_at": "2026-09-01T23:45:27Z",
+    "pushed_at": "2026-09-05T14:46:39Z"
   },
   "freshDrops": [
     {
       "full_name": "anthropics/commerce-agents",
       "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
       "html_url": "https://github.com/anthropics/commerce-agents",
-      "stargazers_count": 2340,
-      "forks_count": 402,
+      "stargazers_count": 2383,
+      "forks_count": 413,
       "language": "Python",
       "topics": [],
       "created_at": "2026-09-01T12:30:12Z",
@@ -60,8 +60,8 @@
       "full_name": "ashemag/human-atlas",
       "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
       "html_url": "https://github.com/ashemag/human-atlas",
-      "stargazers_count": 1755,
-      "forks_count": 460,
+      "stargazers_count": 1921,
+      "forks_count": 495,
       "language": "TypeScript",
       "topics": [],
       "created_at": "2026-09-05T00:24:43Z",
@@ -71,18 +71,18 @@
       "full_name": "Rion-Wu-tech/wechat-intelligence-hub",
       "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
       "html_url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
-      "stargazers_count": 1616,
-      "forks_count": 2054,
+      "stargazers_count": 1746,
+      "forks_count": 2270,
       "language": "Python",
       "topics": [],
       "created_at": "2026-09-04T15:00:53Z",
-      "pushed_at": "2026-09-05T22:55:53Z"
+      "pushed_at": "2026-09-07T18:10:18Z"
     },
     {
       "full_name": "pierrenade/short-video-generator-AI",
       "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
       "html_url": "https://github.com/pierrenade/short-video-generator-AI",
-      "stargazers_count": 1142,
+      "stargazers_count": 1156,
       "forks_count": 156,
       "language": "Python",
       "topics": [
@@ -93,69 +93,69 @@
         "video-generation"
       ],
       "created_at": "2026-09-05T11:55:18Z",
-      "pushed_at": "2026-09-05T12:12:29Z"
+      "pushed_at": "2026-09-07T17:08:34Z"
     },
     {
       "full_name": "anthropics/fermats-last-theorem",
       "description": null,
       "html_url": "https://github.com/anthropics/fermats-last-theorem",
-      "stargazers_count": 897,
-      "forks_count": 73,
+      "stargazers_count": 927,
+      "forks_count": 78,
       "language": "Lean",
       "topics": [],
       "created_at": "2026-09-04T14:21:04Z",
       "pushed_at": "2026-09-04T14:59:12Z"
     },
     {
-      "full_name": "yczz/oc-english",
-      "description": "养成类游戏英语学习",
-      "html_url": "https://github.com/yczz/oc-english",
-      "stargazers_count": 845,
-      "forks_count": 13,
-      "language": "JavaScript",
+      "full_name": "vinzdg/codenotch",
+      "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
+      "html_url": "https://github.com/vinzdg/codenotch",
+      "stargazers_count": 900,
+      "forks_count": 138,
+      "language": "Swift",
       "topics": [],
-      "created_at": "2026-09-01T23:45:27Z",
-      "pushed_at": "2026-09-05T14:46:39Z"
+      "created_at": "2026-09-05T14:55:35Z",
+      "pushed_at": "2026-09-07T03:47:07Z"
     }
   ],
   "resurrection": {
     "full_name": "garrytan/gstack",
     "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
     "html_url": "https://github.com/garrytan/gstack",
-    "stargazers_count": 131863,
+    "stargazers_count": 131935,
     "forks_count": 19760,
     "language": "TypeScript",
     "topics": [],
     "created_at": "2026-03-11T21:22:45Z",
     "pushed_at": "2026-09-06T15:54:25Z"
   },
-  "signalArticle": "This week, a repository named `lnkiai/m3e-canvas` rapidly climbed the GitHub trending charts, captivating the developer community with its fresh take on UI/UX prototyping. This browser-based tool allows users to effortlessly sketch Material 3 Expressive screens and, more intriguingly, translates these visual concepts into \"vibe-coding prompts.\" It's a timely innovation, landing squarely amidst the burgeoning adoption of Material Design 3 Expressive, offering an immediate, intuitive canvas for designers and developers to explore the nuanced, emotional aspects of user interfaces, moving beyond rigid specifications to capture the *feel* of an experience.\n\nThe project squarely addresses the enduring challenge of bridging the gap between design intent and actionable code, a friction point often leading to arduous handoffs and misinterpretations. Its focus on \"vibe-coding prompts\" speaks to a burgeoning trend in which abstract design concepts are articulated not just through technical specifications, but in a way that resonates with human emotion and intuition. This aligns with broader movements in prompt engineering and the increasing demand for tools that facilitate more fluid, expressive communication between design and development teams, pushing beyond traditional wireframes towards a more nuanced understanding of user experience.\n\nFor developers and tech watchers, `m3e-canvas` offers a fascinating glimpse into the future of design-to-code workflows, potentially streamlining the initial stages of component creation and aesthetic alignment with Material 3. It's more than just another design tool; it’s a tangible example of how design communication is evolving, integrating subjective \"vibe\" into structured prompts that directly inform development. This blurring of lines between artistic intuition and systematic development, powered by Next.js and React, hints at a new paradigm where initial design sketches can directly inform code generation in a deeply contextual and expressive way.",
-  "hoodArticle": "This repository demonstrates a compelling application of formal verification, leveraging the Lean 4 proof assistant to construct a machine-checkable proof of Fermat's Last Theorem. The core technical approach centers on dependent type theory, which underpins Lean's ability to represent mathematical objects, propositions, and proofs as types and terms. This establishes a rigorous formalization architecture, building a hierarchy of definitions, axioms, lemmas, and theorems within Lean's expressive type system. This enables automated consistency checking and verification of every logical step, removing ambiguity inherent in traditional paper proofs and guaranteeing mathematical rigor.\n\nAt a code level, this project tackles the monumental problem of providing an undeniable, machine-verified proof for Fermat's Last Theorem. Its implementation stands out due to reliance on Lean 4's expressive dependent type system, where propositions are types and proofs are terms, enabling precision unattainable in traditional mathematical texts. The methodology meticulously formalizes requisite advanced mathematical concepts—from abstract algebra to elliptic curves—within Lean. Each lemma and theorem is proven through explicit proof terms or executable tactics, leveraging Lean's powerful meta-programming and type inference. The sheer scale and depth of this formalization, building upon `mathlib`, underscores its significance by eliminating human error and ambiguity throughout the logical chain from axioms to the final theorem statement.",
-  "ideaArticle": "Imagine you’re driving a car with a limited amount of fuel each day, and you rely on that fuel to get your work done. This macOS app acts like a tiny, ever-present fuel gauge for your AI coding assistants. Stripped of all the technical bits, its core idea is simply to keep you constantly aware of how much 'help' you have left from popular AI tools like Claude Code or Cursor. It takes those invisible daily or hourly usage limits – the number of times you can ask your AI for code suggestions or debug help – and puts them right on your screen, always visible. It’s essentially a personal dashboard for your AI allowance, making the abstract concrete and easy to monitor at a glance.\n\nThis seemingly simple concept addresses a very real human need: managing limited resources to maintain productivity. Many developers and engineers heavily rely on these AI assistants throughout their workday, and hitting an unexpected usage limit can be incredibly disruptive. This app fills a crucial gap by providing real-time transparency, preventing those frustrating moments when your AI helper suddenly goes quiet. Who would want this? Anyone deeply integrated with AI coding tools, from individual developers optimizing their workflow to small engineering teams looking to get the most out of their subscriptions. It’s a tool for power users who understand the value of proactive management, ensuring they can code efficiently without arbitrary cut-offs or the constant worry of hitting their daily cap.",
+  "signalArticle": "This week, `lnkiai/m3e-canvas` exploded onto the trending charts, amassing over 4600 stars for its innovative approach to UI design. This TypeScript-powered web application allows users to sketch Material 3 Expressive screens directly in their browser. What immediately sets it apart, and why it's gaining such traction *right now*, is its unique ability to translate these visual designs into \"vibe-coding prompts.\" It's not just a design sandbox; it's a bridge from conceptual UI layouts to actionable instructions for generative AI, tapping directly into the burgeoning field of prompt engineering for code.\n\nThe repository addresses a critical juncture in modern development: the evolving relationship between robust design systems and AI-driven code generation. Material 3 Expressive, Google's push for more dynamic and personalized user interfaces, often requires a nuanced understanding to implement effectively. `m3e-canvas` provides a hands-on exploration ground, making the expressive qualities tangible. By transforming visual sketches into semantic prompts, it directly confronts the challenge of communicating subjective \"vibe\" and design intent to an AI, positioning itself as a crucial intermediary in the design-to-development pipeline.\n\nFor developers, this isn't merely another design tool; it’s a peek into a future where design artifacts seamlessly integrate with AI-powered development workflows. Tech watchers should take note as `m3e-canvas` signifies a deeper trend: the practical application of AI in bridging the perennial gap between design vision and coded reality. It offers a tangible example of how core design system principles, like Material 3 Expressive, can be unlocked and accelerated through prompt engineering, potentially redefining how teams iterate from concept to production in an increasingly AI-fluent landscape.",
+  "hoodArticle": "This repository applies the Lean theorem prover to formalize the proof of Fermat's Last Theorem. The core technical approach leverages dependent type theory, expressing mathematical statements as types and proofs as terms, creating a highly structured, machine-checkable framework. Its architecture is a hierarchical dependency graph of definitions, axioms, and theorems. Each step, from foundational logic to advanced number theory, is meticulously formalized, building a robust, verifiable edifice where every assertion traces to logical primitives, ensuring the entire mathematical argument is sound and internally consistent from its foundations.\n\nAt a code level, the project solves the fundamental problem of ensuring absolute rigor and eliminating human error in mathematical proofs. By translating Wiles's complex proof into Lean's formal language, it creates an artifact whose correctness is computationally verified. The implementation stands out because it's not algorithm development, but the meticulous construction of an \"executable proof\" where Lean's kernel rigorously validates every logical inference. This precision, in defining mathematical objects and theorems, yields a degree of certainty unattainable by human review alone, advancing mathematical reliability through computational means.",
+  "ideaArticle": "Forget complex code and technical jargon; at its heart, this project is a clever reimagining of how we learn a language. It fuses the engaging world of 'cultivation games' – where you nurture and grow something over time, like a virtual pet or a digital garden – with the often-challenging task of mastering English. Imagine learning new vocabulary and grammar not through drills, but by making progress in a game, seeing your virtual world or character flourish as your language skills improve. It transforms the act of studying into an ongoing, rewarding process, where every correct answer or completed lesson contributes to something tangible within the game itself.\n\nThis innovative blend addresses a pervasive human need: the struggle for sustained motivation in language learning. Many find traditional methods tedious, leading to high dropout rates. This project fills that void by offering a compelling alternative for anyone who finds typical flashcards and grammar exercises a chore. It's perfect for learners who already enjoy simulation or 'idle' games, integrating language practice into a favorite hobby. Whether you're a busy professional building English skills or simply someone seeking a fun, low-pressure path to fluency, this concept offers an addictive and effective new approach to making English learning a lasting habit.",
   "dropDescriptions": [
-    "Unlock AI's potential in commerce: a blueprint for building intelligent shopping and merchant agents with Claude.",
-    "Dive into a detailed, interactive 3D anatomy explorer with thousands of selectable body parts.",
-    "Transform your WeChat experience with local AI intelligence for chat history, briefings, and opportunity tracking.",
-    "Turn your YouTube videos into viral shorts effortlessly with AI-powered highlight detection and subtitles.",
-    "Witness Fermat's Last Theorem, formally verified and meticulously proven using the Lean theorem prover.",
-    "Master English with a fun, engaging \"cultivation game\" that transforms language learning into an adventure."
+    "Unleash Claude to build smart shopping and merchant AI agents for any industry.",
+    "Dive into the human body with this open-source, interactive 3D anatomy explorer.",
+    "Transform WeChat into an AI-powered intelligence hub with searchable chats and smart briefings.",
+    "Turn your YouTube videos into viral shorts instantly with AI-powered highlight detection and subtitles.",
+    "A rigorous formalization and proof of Fermat's Last Theorem, powered by Lean.",
+    "A macOS app to easily monitor your AI coding assistant usage limits at a glance."
   ],
-  "resurrectionArticle": "gstack rocketed to prominence in early 2026, presented as Garry Tan's exact Claude Code setup. This repository offered a revolutionary vision: 23 opinionated AI tools acting as a complete development team—from CEO to QA—automating the entire software lifecycle. Its audacious promise, backed by a tech luminary, resonated deeply, quickly accumulating over 130,000 stars and defining early ambitions for AI-managed software development.\n\nIts resurgence today highlights how the AI landscape has finally caught up. In 2026, the ambitious multi-agent architecture of gstack likely outpaced the available foundational models and orchestration frameworks. Now, with sophisticated multi-agent systems, more powerful LLMs, and vastly improved integration tooling, gstack's once-aspirational dream of a fully autonomous development stack feels profoundly practical. It offers a proven, opinionated blueprint at a time when teams are desperately seeking comprehensive AI solutions to enhance productivity and achieve true operational autonomy.",
+  "resurrectionArticle": "The garrytan/gstack repository first captivated the tech world as Garry Tan’s definitive Claude Code setup – an audacious collection of 23 opinionated AI tools. Launched in 2026, it was designed to embody an entire software team, covering roles from CEO and Designer to Eng Manager and QA. Gstack presented a radical vision for autonomous software development, acting as a pioneering blueprint for AI-first organizations and showcasing large language models' ambitious potential to orchestrate complex product creation. It sparked immense discussion on the future of work and the potential for a fully automated software lifecycle.\n\nIts sudden resurgence is fascinating, largely because the AI ecosystem has finally matured to meet gstack's ambitious premise. While groundbreaking, its initial 2026 implementation likely grappled with less stable foundational models and nascent integration tooling, making its autonomy more conceptual. Today, with vastly more capable LLMs and robust orchestration frameworks, gstack’s meticulously designed architecture is now poised to deliver. Developers are rediscovering its holistic approach; once ahead of its time, it now offers a powerful, cohesive AI-driven software factory.",
   "numbers": {
     "repoCount": 25,
-    "totalStars": 22779,
-    "avgStars": 911,
+    "totalStars": 23759,
+    "avgStars": 950,
     "topLang": "Python",
     "mostForked": {
       "full_name": "Rion-Wu-tech/wechat-intelligence-hub",
       "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
       "html_url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
-      "stargazers_count": 1616,
-      "forks_count": 2054,
+      "stargazers_count": 1746,
+      "forks_count": 2270,
       "language": "Python",
       "topics": [],
       "created_at": "2026-09-04T15:00:53Z",
-      "pushed_at": "2026-09-05T22:55:53Z"
+      "pushed_at": "2026-09-07T18:10:18Z"
     }
   }
 }
