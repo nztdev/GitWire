@@ -1,13 +1,13 @@
 {
   "edition": "092",
   "weekRange": "5 Oct – 11 Oct, 2026",
-  "generatedAt": "2026-10-05T14:54:00Z",
+  "generatedAt": "2026-10-05T21:32:43Z",
   "lead": {
     "full_name": "rehan-remade/universal-modder",
     "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
     "html_url": "https://github.com/rehan-remade/universal-modder",
-    "stargazers_count": 3603,
-    "forks_count": 311,
+    "stargazers_count": 3800,
+    "forks_count": 330,
     "language": "Python",
     "topics": [
       "age-of-empires",
@@ -25,45 +25,55 @@
     "pushed_at": "2026-10-05T12:43:12Z"
   },
   "hoodRepo": {
-    "full_name": "wy51ai/floorplan-3d",
-    "description": null,
-    "html_url": "https://github.com/wy51ai/floorplan-3d",
-    "stargazers_count": 1415,
-    "forks_count": 291,
-    "language": "HTML",
-    "topics": [],
-    "created_at": "2026-09-29T02:57:30Z",
-    "pushed_at": "2026-10-02T02:32:11Z"
-  },
-  "ideaRepo": {
     "full_name": "nykooi1/vibe-wise",
     "description": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
     "html_url": "https://github.com/nykooi1/vibe-wise",
-    "stargazers_count": 1391,
-    "forks_count": 69,
+    "stargazers_count": 1695,
+    "forks_count": 81,
     "language": "Python",
     "topics": [],
     "created_at": "2026-09-29T01:29:57Z",
     "pushed_at": "2026-10-01T11:26:14Z"
+  },
+  "ideaRepo": {
+    "full_name": "QingYunA/answer-me-with-html",
+    "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+    "html_url": "https://github.com/QingYunA/answer-me-with-html",
+    "stargazers_count": 1471,
+    "forks_count": 102,
+    "language": "JavaScript",
+    "topics": [
+      "agent-skill",
+      "ai-agent",
+      "claude-code",
+      "cli",
+      "diagram",
+      "explainer",
+      "html",
+      "llm",
+      "ste100"
+    ],
+    "created_at": "2026-10-02T09:57:40Z",
+    "pushed_at": "2026-10-05T16:57:39Z"
   },
   "freshDrops": [
     {
       "full_name": "CopilotKit/OpenDots",
       "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
       "html_url": "https://github.com/CopilotKit/OpenDots",
-      "stargazers_count": 3495,
-      "forks_count": 461,
+      "stargazers_count": 3644,
+      "forks_count": 483,
       "language": "TypeScript",
       "topics": [],
       "created_at": "2026-09-29T17:13:58Z",
-      "pushed_at": "2026-10-05T14:26:12Z"
+      "pushed_at": "2026-10-05T19:53:36Z"
     },
     {
       "full_name": "feder-cr/dots",
       "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
       "html_url": "https://github.com/feder-cr/dots",
-      "stargazers_count": 2610,
-      "forks_count": 437,
+      "stargazers_count": 2617,
+      "forks_count": 438,
       "language": "Python",
       "topics": [
         "ai-agent",
@@ -94,8 +104,8 @@
       "full_name": "storytold/photocraft",
       "description": "An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
       "html_url": "https://github.com/storytold/photocraft",
-      "stargazers_count": 1587,
-      "forks_count": 158,
+      "stargazers_count": 1931,
+      "forks_count": 186,
       "language": "Rust",
       "topics": [
         "adobe",
@@ -112,13 +122,44 @@
         "rust"
       ],
       "created_at": "2026-09-30T13:37:48Z",
-      "pushed_at": "2026-10-05T14:52:25Z"
+      "pushed_at": "2026-10-05T21:30:40Z"
+    },
+    {
+      "full_name": "omlahore/RemoveMacAI",
+      "description": "Turn off Apple Intelligence on macOS 27 and get its disk space back. One command, fully reversible.",
+      "html_url": "https://github.com/omlahore/RemoveMacAI",
+      "stargazers_count": 1886,
+      "forks_count": 37,
+      "language": "Swift",
+      "topics": [
+        "apple-intelligence",
+        "cli",
+        "debloat",
+        "macos",
+        "macos-27",
+        "privacy",
+        "siri",
+        "swift"
+      ],
+      "created_at": "2026-09-29T11:02:39Z",
+      "pushed_at": "2026-10-05T21:17:24Z"
+    },
+    {
+      "full_name": "nykooi1/vibe-wise",
+      "description": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
+      "html_url": "https://github.com/nykooi1/vibe-wise",
+      "stargazers_count": 1695,
+      "forks_count": 81,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-09-29T01:29:57Z",
+      "pushed_at": "2026-10-01T11:26:14Z"
     },
     {
       "full_name": "nanaism/yomiyasu",
       "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
       "html_url": "https://github.com/nanaism/yomiyasu",
-      "stargazers_count": 1487,
+      "stargazers_count": 1501,
       "forks_count": 34,
       "language": "Python",
       "topics": [
@@ -139,99 +180,46 @@
       ],
       "created_at": "2026-09-30T11:49:32Z",
       "pushed_at": "2026-10-05T09:32:15Z"
-    },
-    {
-      "full_name": "wy51ai/floorplan-3d",
-      "description": null,
-      "html_url": "https://github.com/wy51ai/floorplan-3d",
-      "stargazers_count": 1415,
-      "forks_count": 291,
-      "language": "HTML",
-      "topics": [],
-      "created_at": "2026-09-29T02:57:30Z",
-      "pushed_at": "2026-10-02T02:32:11Z"
-    },
-    {
-      "full_name": "QingYunA/answer-me-with-html",
-      "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-      "html_url": "https://github.com/QingYunA/answer-me-with-html",
-      "stargazers_count": 1398,
-      "forks_count": 94,
-      "language": "JavaScript",
-      "topics": [
-        "agent-skill",
-        "ai-agent",
-        "claude-code",
-        "cli",
-        "diagram",
-        "explainer",
-        "html",
-        "llm",
-        "ste100"
-      ],
-      "created_at": "2026-10-02T09:57:40Z",
-      "pushed_at": "2026-10-05T14:50:16Z"
     }
   ],
   "resurrection": {
-    "full_name": "nexu-io/open-design",
-    "description": "🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK.",
-    "html_url": "https://github.com/nexu-io/open-design",
-    "stargazers_count": 99509,
-    "forks_count": 11503,
-    "language": "TypeScript",
-    "topics": [
-      "agent-skills",
-      "ai-design",
-      "byok",
-      "claude-code-for-design",
-      "claude-design",
-      "codex-design",
-      "coding-agents",
-      "cursor-design",
-      "deepseek",
-      "deepseek-harness",
-      "design-systems",
-      "desktop-app",
-      "dsh",
-      "dsh-plugin",
-      "figma-alternative",
-      "hermes-agent",
-      "local-first",
-      "prototyping",
-      "ui-generator",
-      "vibe-coding"
-    ],
-    "created_at": "2026-04-28T04:25:20Z",
-    "pushed_at": "2026-10-05T01:37:31Z"
+    "full_name": "odysseus-dev/odysseus",
+    "description": "Self-hosted AI workspace. ",
+    "html_url": "https://github.com/odysseus-dev/odysseus",
+    "stargazers_count": 89814,
+    "forks_count": 1189,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2026-05-31T14:05:51Z",
+    "pushed_at": "2026-10-05T21:25:16Z"
   },
-  "signalArticle": "This week, a groundbreaking project soared to the top of GitHub's trending list, igniting fervent discussion among developers and gamers alike. The `rehan-remade/universal-modder` repository, already boasting over 3600 stars, promises to \"Point Claude at any game,\" leveraging a sophisticated toolkit including `fal` and the `MCP` to enable \"Claude Code\" to mod virtually any PC game. This Python-powered initiative isn't just about tweaking textures; it encompasses everything from reverse engineering and game recon to fal-generated art, 3D models, and audio. It's a direct, immediate answer to the growing demand for more accessible and intelligent modding solutions.\n\nThe significance of `universal-modder` extends far beyond individual game customization. It addresses the inherent complexity and fragmentation of the game modding landscape, traditionally dominated by game-specific tools and proprietary formats. By positioning an AI agent, \"Claude Code,\" as a universal interface for game interaction and modification, the project taps into the broader trend of generative AI democratizing specialized creative tasks. This blend of advanced reverse engineering techniques with cutting-edge AI for content generation – art, 3D, audio – heralds a new era for user-generated content, making previously inaccessible game engines and assets pliable to intelligent automation.\n\nFor developers and tech watchers, `universal-modder` offers a compelling glimpse into the future of digital content creation and interaction. It challenges game studios to reconsider their stance on intellectual property and community engagement, while providing independent modders and creators with unprecedented power. The project underscores how AI is rapidly becoming an indispensable co-creator, pushing the boundaries of what's possible in complex digital environments. It signals a paradigm shift where the lines between human design and AI generation blur, fundamentally altering how we approach game development, modding, and the very fabric of virtual worlds.",
-  "hoodArticle": "The `wy51ai/floorplan-3d` repository presents a compelling example of a full client-side web application effectively tackling complex geometric modeling. Its core architecture is a clear demonstration of leveraging a declarative 2D input system to drive a dynamic 3D rendering pipeline. At its heart, the project likely orchestrates a robust 2D drawing engine (handling user interactions for walls, dimensions, and object placement) with a powerful WebGL library, such as Three.js, for scene construction and rendering. This decoupled approach allows for intricate UI logic in the 2D plane while maintaining an efficient and interactive 3D visualization, where camera controls, lighting, and material application are managed by the underlying 3D framework. The technical interest lies in this real-time transformation and synchronization between user-driven 2D edits and their immediate, photorealistic 3D representation.\n\nThe specific problem addressed at a code level is the intuitive and browser-based creation of architectural layouts, effectively abstracting the significant complexities of CAD software. The implementation approach stands out by its ability to perform real-time mesh generation and manipulation from relatively simple 2D input data. This involves sophisticated algorithms for taking polylines and polygons (representing walls, rooms, and openings) and extruding them into coherent 3D meshes, complete with wall thickness, accurate intersections, and boolean operations for cutting doors and windows. The challenge is maintaining performance and visual fidelity during these dynamic updates, requiring optimized spatial partitioning structures and efficient update cycles to prevent full scene re-renders. The project's strength lies in making these computationally intensive geometric operations accessible and seamless within a standard web browser environment.",
-  "ideaArticle": "Vibe-wise offers a fascinating new way to understand software development. At its heart, this tool acts as a patient, insightful tutor that guides you through the building process, rather than simply handing over finished code. Imagine having an expert co-pilot that handles all the intricate typing and syntax, while simultaneously explaining the logic behind each step and how different components come together. It strips away the intimidating aspects of coding, focusing instead on teaching you the fundamental reasoning and architecture behind creating a functional application, all in real-time. It’s about demystifying the \"how-to\" of building.\n\nThis innovative approach addresses a widespread need: the desire to create and comprehend technology without necessarily becoming a professional programmer. Many brilliant ideas stall because founders or product managers lack the deep technical knowledge to bring them to life, or aspiring builders find traditional coding too daunting. Vibe-wise bridges this gap by making development accessible. It’s ideal for entrepreneurs prototyping concepts, product managers needing to grasp technical feasibility, or anyone genuinely curious about the mechanics of software, offering a practical path to understanding the craft of building without getting lost in complex code.",
+  "signalArticle": "This week, `rehan-remade/universal-modder` soared onto GitWire’s trending charts with an audacious promise: \"Point Claude at any game.\" This Python project transcends typical modding tools, presenting an AI-powered framework designed to democratize and accelerate game modification for PC titles. Leveraging an AI agent, Claude Code, it aims to automate intricate processes of reconnaissance, reverse engineering, and fal-generated asset creation—from 3D models to audio. Its rapid ascent signals a pivotal moment where generative AI meets interactive entertainment, making complex modding accessible to a broader audience.\n\nThe `universal-modder` project directly addresses a long-standing challenge: the immense skill and time commitment typically demanded for comprehensive game modification. Traditionally, a modder required expertise in reverse engineering, proprietary data formats, 3D modeling, texturing, animation, sound design, and custom coding. This project, through its \"Multi-domain Coder Plugin\" (MCP) and integration with fal for generative assets, represents a significant leap in the trend of AI agents tackling complex, multi-faceted tasks. It showcases how large language models, when augmented with specialized tools, can transcend simple text generation to perform sophisticated development, transforming a labor-intensive craft.\n\nDevelopers and tech watchers should monitor `universal-modder` closely for its profound implications. For game developers, it forecasts a future of accelerated prototyping and lower barriers for user-generated content, potentially unlocking unprecedented creative possibilities and community engagement. Beyond gaming, this repository serves as a powerful case study for multi-modal AI agents in complex, goal-oriented tasks. It underscores AI's potential to act not merely as a tool for singular outputs, but as an orchestrator of multi-step processes, fundamentally challenging traditional development pipelines and offering a blueprint for similar domain-specific, labor-intensive challenges.",
+  "hoodArticle": "The `vibe-wise` repository presents an interesting architectural approach by framing its core functionality as a Claude Code plugin. This design pattern intrinsically leverages Anthropic's API to extend Claude's capabilities beyond mere conversational text generation into structured, actionable tasks within a specific domain – interactive code learning. The architecture separates the AI's reasoning and code generation from the plugin's environment-aware operations. This enables a robust control flow where Claude, based on user input and its own reasoning, can invoke predefined tools or functions exposed by the plugin. This modularity allows for a clear definition of the AI's interaction space, focusing on domain-specific actions rather than just raw text manipulation, making the AI an active participant in the learning environment rather than just a passive code provider.\n\nAt a code level, this repository addresses the problem of transforming static LLM code generation into a dynamic, pedagogical experience. While traditional LLM interactions often result in a single block of code, `vibe-wise` provides a framework for iterative, guided learning. Its implementation stands out by defining specific Python functions that act as Claude \"tools.\" These tools likely include capabilities such as creating or modifying conceptual code files, running simulated tests, or generating structured explanations and feedback. This moves beyond basic prompt engineering to a more sophisticated agent-based interaction, where the plugin's Python code defines a precise action schema that Claude can interpret and execute. The distinctiveness lies in how these carefully crafted tool definitions bridge Claude's natural language understanding with concrete, programmatic actions, fostering an interactive and self-correcting learning loop.",
+  "ideaArticle": "At its heart, \"answer-me-with-html\" isn't just about getting an answer from an AI; it's about how that answer is *delivered*. Imagine asking a complex question – like how a specific technology works or the steps in a convoluted process – and instead of a simple block of text, the AI generates a beautifully formatted, single HTML webpage. This isn't just text on a screen; it's a complete, self-contained document that can include diagrams, structured sections, maybe even interactive elements, all designed to make the explanation clear and easy to grasp. It transforms raw AI output into a polished, readable document, making understanding far more intuitive than sifting through paragraphs of prose.\n\nThis innovative approach addresses a real human need: grappling with dense information in an accessible way. While current AI models are brilliant at generating text, they often fall short in presentation, leaving users to parse lengthy explanations on their own. This project fills that gap by providing a ready-made, visually rich explainer. Founders could use it to rapidly prototype documentation or internal explainers, product managers might generate quick user guides or feature breakdowns, and anyone needing to demystify complex subjects – from educators to consultants – would find immense value in receiving a complete, well-organized, and visually engaging HTML page rather than just a stream of words. It elevates AI's utility by focusing on clarity and comprehension.",
   "dropDescriptions": [
-    "Your always-on AI coworkers that integrate seamlessly across text, calls, and Slack.",
-    "This AI agent browses the web autonomously, bypassing blocks for seamless data access.",
-    "Experience a powerful, open-source Photoshop alternative rebuilt from scratch in Rust.",
-    "Refine AI-generated Japanese into natural-sounding text with this essential agent skill.",
-    "Visualize your spaces: effortlessly create stunning 3D floor plans right in your browser.",
-    "Get clear answers to complex questions, delivered as beautiful, readable HTML pages."
+    "Get always-on AI coworkers seamlessly integrating with your text, calls, and Slack for enhanced productivity.",
+    "This open-source AI agent has its own browser, navigating the web freely without getting blocked.",
+    "Experience Photoshop's power as an open-source, Rust-native reimplementation, crafted for modern image editing.",
+    "Easily remove Apple Intelligence from macOS 27, reclaiming disk space with a single, reversible command.",
+    "Learn coding concepts and development skills with this Claude Code plugin, while AI writes the actual code.",
+    "Refine AI-generated Japanese into natural, polished prose with this intelligent agent skill."
   ],
-  "resurrectionArticle": "Nexu-io's open-design, launched in April 2026, was a groundbreaking, local-first desktop app that transformed coding agents into a comprehensive design engine. It wasn't just about mockups; it generated real, exportable files—HTML prototypes, landing pages, dashboards, and even video—using models like DeepSeek Harness and Claude Code via a \"Bring Your Own Key\" system. This open-source alternative to proprietary cloud solutions empowered developers with unprecedented control over AI-driven design, making it profoundly influential for its time by democratizing access to agent-powered creativity.\n\nIts sudden resurgence now speaks volumes about evolving priorities in the AI landscape. After an initial period of rapid development, open-design went quiet, yet today its local-first philosophy resonates deeply amidst rising data privacy concerns and escalating cloud API costs. Crucially, its flexible architecture, designed for integrating multiple coding agents, perfectly positions it to leverage the latest, more powerful LLMs and specialized agentic workflows that have since emerged. Developers are rediscovering this pioneering project as an adaptable, robust framework for today's AI design capabilities.",
+  "resurrectionArticle": "Odysseus, first unveiled in mid-2026, quickly became a beacon for developers seeking autonomy in a rapidly centralizing AI landscape. At a time when sophisticated AI tooling often meant deep integration with proprietary cloud platforms, this self-hosted AI workspace offered a refreshing counter-narrative. It provided a powerful, open-source environment for model experimentation, data management, and application development directly on local infrastructure, appealing strongly to independent researchers, privacy-conscious enterprises, and those keen on avoiding vendor lock-in. Its initial impact was profound, democratizing access to advanced AI capabilities beyond the major tech giants.\n\nAfter a period of relative dormancy following its last significant push in late 2026, Odysseus is experiencing an intriguing resurgence. The shift in the ecosystem is undeniable: spiraling cloud AI costs, heightened global concerns over data sovereignty and privacy, and the remarkable advancements in local GPU capabilities have collectively created fertile ground for its return. As the open-source AI model ecosystem continues to flourish and the demand for personalized, secure, and cost-effective AI solutions grows, Odysseus’s core promise of a robust, self-managed AI hub suddenly feels not just relevant, but essential once more.",
   "numbers": {
     "repoCount": 25,
-    "totalStars": 30368,
-    "avgStars": 1215,
+    "totalStars": 32740,
+    "avgStars": 1310,
     "topLang": "Python",
     "mostForked": {
       "full_name": "CopilotKit/OpenDots",
       "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
       "html_url": "https://github.com/CopilotKit/OpenDots",
-      "stargazers_count": 3495,
-      "forks_count": 461,
+      "stargazers_count": 3644,
+      "forks_count": 483,
       "language": "TypeScript",
       "topics": [],
       "created_at": "2026-09-29T17:13:58Z",
-      "pushed_at": "2026-10-05T14:26:12Z"
+      "pushed_at": "2026-10-05T19:53:36Z"
     }
   }
 }
