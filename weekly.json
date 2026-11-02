@@ -1,56 +1,47 @@
 {
   "edition": "096",
   "weekRange": "2 Nov – 8 Nov, 2026",
-  "generatedAt": "2026-11-02T16:11:53Z",
+  "generatedAt": "2026-11-02T22:49:54Z",
   "lead": {
     "full_name": "deepseek-ai/dsh-superagent-prototype",
     "description": "Towards a More Autonomous Agent System",
     "html_url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-    "stargazers_count": 12201,
-    "forks_count": 1264,
+    "stargazers_count": 12970,
+    "forks_count": 1345,
     "language": "TypeScript",
     "topics": [],
     "created_at": "2026-10-31T09:32:46Z",
     "pushed_at": "2026-10-31T12:05:51Z"
   },
   "hoodRepo": {
-    "full_name": "patch-gg/pixelfx",
-    "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
-    "html_url": "https://github.com/patch-gg/pixelfx",
-    "stargazers_count": 3339,
-    "forks_count": 446,
-    "language": "JavaScript",
-    "topics": [
-      "agent-skills",
-      "animation",
-      "canvas",
-      "claude-code-plugin",
-      "gamedev",
-      "pixel-art",
-      "sprite-sheet",
-      "vfx"
-    ],
-    "created_at": "2026-10-30T06:43:25Z",
-    "pushed_at": "2026-10-31T08:44:14Z"
+    "full_name": "storytold/craft-anything",
+    "description": "Craft Anything: understand how any software works, and craft your own.",
+    "html_url": "https://github.com/storytold/craft-anything",
+    "stargazers_count": 3872,
+    "forks_count": 626,
+    "language": "Rust",
+    "topics": [],
+    "created_at": "2026-10-31T14:50:00Z",
+    "pushed_at": "2026-11-02T21:58:28Z"
   },
   "ideaRepo": {
     "full_name": "Djihads80/Eglantine",
     "description": "VERY experimental Nintendo Switch 2 emulator",
     "html_url": "https://github.com/Djihads80/Eglantine",
-    "stargazers_count": 2303,
-    "forks_count": 272,
+    "stargazers_count": 2448,
+    "forks_count": 294,
     "language": "C++",
     "topics": [],
     "created_at": "2026-10-29T00:25:18Z",
-    "pushed_at": "2026-11-02T15:49:56Z"
+    "pushed_at": "2026-11-02T22:36:02Z"
   },
   "freshDrops": [
     {
       "full_name": "heydamir/unslop",
       "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
       "html_url": "https://github.com/heydamir/unslop",
-      "stargazers_count": 5788,
-      "forks_count": 297,
+      "stargazers_count": 6182,
+      "forks_count": 320,
       "language": "JavaScript",
       "topics": [],
       "created_at": "2026-10-29T15:41:21Z",
@@ -60,8 +51,8 @@
       "full_name": "anhao/ai-pose-gallery-zh",
       "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
       "html_url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "stargazers_count": 5454,
-      "forks_count": 1391,
+      "stargazers_count": 5480,
+      "forks_count": 1394,
       "language": "TypeScript",
       "topics": [
         "ai-art",
@@ -80,8 +71,8 @@
       "full_name": "wangzan101/Mika",
       "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
       "html_url": "https://github.com/wangzan101/Mika",
-      "stargazers_count": 5110,
-      "forks_count": 983,
+      "stargazers_count": 5239,
+      "forks_count": 1007,
       "language": "Kotlin",
       "topics": [
         "accessibility",
@@ -94,14 +85,14 @@
         "mobile-agent"
       ],
       "created_at": "2026-10-29T14:34:07Z",
-      "pushed_at": "2026-11-02T15:17:00Z"
+      "pushed_at": "2026-11-02T19:08:44Z"
     },
     {
       "full_name": "valentderah/totk-pc-recomp",
       "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
       "html_url": "https://github.com/valentderah/totk-pc-recomp",
-      "stargazers_count": 3755,
-      "forks_count": 304,
+      "stargazers_count": 3946,
+      "forks_count": 317,
       "language": "C",
       "topics": [
         "game",
@@ -114,11 +105,22 @@
       "pushed_at": "2026-11-02T15:56:58Z"
     },
     {
+      "full_name": "storytold/craft-anything",
+      "description": "Craft Anything: understand how any software works, and craft your own.",
+      "html_url": "https://github.com/storytold/craft-anything",
+      "stargazers_count": 3872,
+      "forks_count": 626,
+      "language": "Rust",
+      "topics": [],
+      "created_at": "2026-10-31T14:50:00Z",
+      "pushed_at": "2026-11-02T21:58:28Z"
+    },
+    {
       "full_name": "patch-gg/pixelfx",
       "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
       "html_url": "https://github.com/patch-gg/pixelfx",
-      "stargazers_count": 3339,
-      "forks_count": 446,
+      "stargazers_count": 3457,
+      "forks_count": 468,
       "language": "JavaScript",
       "topics": [
         "agent-skills",
@@ -132,64 +134,42 @@
       ],
       "created_at": "2026-10-30T06:43:25Z",
       "pushed_at": "2026-10-31T08:44:14Z"
-    },
-    {
-      "full_name": "storytold/craft-anything",
-      "description": "Craft Anything: understand how any software works, and craft your own.",
-      "html_url": "https://github.com/storytold/craft-anything",
-      "stargazers_count": 3005,
-      "forks_count": 477,
-      "language": "Rust",
-      "topics": [],
-      "created_at": "2026-10-31T14:50:00Z",
-      "pushed_at": "2026-11-02T16:10:31Z"
     }
   ],
   "resurrection": {
-    "full_name": "DietrichGebert/ponytail",
-    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-    "html_url": "https://github.com/DietrichGebert/ponytail",
-    "stargazers_count": 182673,
-    "forks_count": 10084,
-    "language": "JavaScript",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "claude-code-plugin",
-      "cursor-rules",
-      "developer-tools",
-      "llm",
-      "prompt-engineering",
-      "yagni"
-    ],
-    "created_at": "2026-06-12T00:52:37Z",
-    "pushed_at": "2026-10-29T11:59:31Z"
+    "full_name": "odysseus-dev/odysseus",
+    "description": "Self-hosted AI workspace. ",
+    "html_url": "https://github.com/odysseus-dev/odysseus",
+    "stargazers_count": 94942,
+    "forks_count": 1864,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2026-05-31T14:05:51Z",
+    "pushed_at": "2026-11-02T15:44:29Z"
   },
-  "signalArticle": "DeepSeek AI's `dsh-superagent-prototype` has surged to the forefront of GitHub trends this week, attracting over 12,000 stars for its ambitious goal: \"Towards a More Autonomous Agent System.\" In an AI landscape rapidly moving beyond simple LLM interactions, this TypeScript-based project offers a vital, executable blueprint. It empowers developers to build agents capable of complex task execution, self-correction, and long-term planning without constant human oversight. Its immediate popularity signals a critical industry pivot, positioning this prototype as an essential resource for navigating the imminent era of truly autonomous AI.\n\nThe Superagent Prototype directly addresses a fundamental AI challenge: enabling truly independent problem-solving. While large language models excel at generation, they often lack persistent memory, robust planning, and iterative refinement for multi-step goals. This project contributes to the burgeoning \"Agentic AI\" trend, fostering systems designed not just to follow instructions, but to understand objectives, strategize execution, leverage tools, and learn from outcomes. DeepSeek AI's contribution accelerates the development of sophisticated cognitive architectures, bringing us closer to AI that can autonomously navigate complex digital environments.\n\nFor developers, the `dsh-superagent-prototype` offers a practical, TypeScript-powered toolkit for hands-on agent design. It provides a robust starting point for building advanced, self-managing AI applications, demonstrating architectural patterns and cutting-edge implementation strategies. Tech watchers should view its rapid ascent as a definitive indicator of AI's future direction. This open-source initiative democratizes access to advanced agent technology and underscores DeepSeek AI's commitment to collaborative innovation in a domain poised to redefine how we interact with intelligent systems.",
-  "hoodArticle": "The `patch-gg/pixelfx` repository employs a highly modular and atomic architecture for pixel art effects. It comprises 244 independent JavaScript functions, each engineered for direct `canvas` manipulation, allowing developers to seamlessly integrate specific visual transformations without large library overhead. This promotes lean dependency management and efficient asset utilization. Crucially, its architecture extends beyond a static collection through pioneering integration of a Claude Code skill. This transforms the repository into a dynamic effect generation platform, enabling LLM-driven creation of novel effects alongside its extensive predefined set, offering both curated primitives and generative capabilities.\n\nThis project addresses the developer challenge of efficiently creating and applying diverse pixel art effects, particularly in gamedev. Traditional approaches often demand deep `canvas` API mastery or rigid pre-built solutions. `pixelfx` mitigates this by offering a granular, reusable toolkit. Its implementation excels via self-contained, optimized routines likely performing direct `ImageData` buffer manipulation for high performance. The standout innovation is the Claude Code skill; it moves beyond a mere catalog by transforming natural language descriptions into new JavaScript effects. This drastically accelerates prototyping, empowering users to dynamically generate bespoke effects, profoundly reshaping the development workflow.",
-  "ideaArticle": "At its core, Eglantine is an act of technological foresight. Stripped of code, it's an ambitious attempt to build a fully functional, virtual version of Nintendo's next-generation Switch console *before* the device even exists. This project isn't about playing unreleased games today, but rather constructing a digital blueprint: simulating predicted internal components like processors and graphics chips to understand how a future Switch 2 might operate. It's meticulously crafting foundational software architecture that *could* eventually mimic that unreleased hardware, essentially creating a speculative digital twin.\n\nWho wants a virtual console that doesn't yet exist? This project taps into deep human curiosity about cutting-edge technology and the thrill of peering into the future. It appeals to ultimate early adopters, tech enthusiasts, and speculative developers eager to understand, or perhaps influence, upcoming gaming hardware. While highly experimental, emulators eventually serve crucial needs: game preservation, making titles accessible beyond their original console, and fostering independent innovation. Eglantine offers a fascinating, very early sandbox for those exploring the gaming horizon and potentially shaping its future.",
+  "signalArticle": "DeepSeek AI's `dsh-superagent-prototype`, quickly garnering over 12,000 stars, is more than just another trending GitHub project; it's a potent glimpse into the next evolution of AI. This TypeScript-based repository introduces a preliminary architecture for \"superagents\" – systems designed to move beyond simple prompt-response interactions towards genuine autonomy. Its rapid ascent signals the industry's immediate hunger for practical advancements in AI agency, demonstrating a significant step towards self-directing systems, addressing a critical bottleneck in deploying intelligent applications today.\n\nThis prototype squarely tackles one of the most pressing challenges in artificial intelligence: transforming large language models from passive tools into proactive, problem-solving entities. The broader context here is the accelerating shift from basic LLM orchestration to sophisticated agentic workflows, where AI can manage complex, multi-step tasks, conduct research, or even iterate on code. It represents a pivot away from mere intelligent automation towards true AI agents capable of reasoning, reflection, and self-correction, pushing the boundaries of what's possible in automation and knowledge work. This trend promises unprecedented efficiency, while also introducing new complexities in control and oversight.\n\nFor developers, monitoring this repository isn't mere curiosity; it's about understanding the foundational patterns and potential pitfalls of building the next generation of AI applications. The TypeScript codebase offers a practical blueprint for crafting robust, autonomous systems, highlighting crucial design considerations for agent communication, state management, and tool integration. For tech watchers, DeepSeek AI's foray into this space underscores the competitive race to define the future of AI. This prototype, even in its early stage, suggests where the cutting edge is headed – an era where AI doesn't just answer questions, but actively orchestrates solutions, redefining human-computer interaction and the nature of work.",
+  "hoodArticle": "The `craft-anything` repository presents an intriguing technical approach, primarily focusing on language-oriented programming and systems-level tooling. Its architecture is likely a modular framework, offering interoperable Rust crates to simplify the creation of interpreters, compilers, or domain-specific languages (DSLs). This design emphasizes composability, enabling developers to combine primitive building blocks—like lexers, parsers, abstract syntax tree (AST) structures, and execution environments—to construct diverse software systems. Leveraging Rust, the project ensures robust, performant, and memory-safe infrastructure, making it ideal for applications requiring low-level control and reliability, thus facilitating a deeper understanding of computational mechanics.\n\nAt a code level, `craft-anything` specifically addresses the problem of repeatedly implementing core language infrastructure for projects requiring custom parsing, interpretation, or code generation. It offers a structured solution by abstracting common patterns from compilers and interpreters into reusable, idiomatic Rust components. For instance, it likely provides robust parser combinators, flexible AST definitions, and extensible visitor patterns for tree traversal. The implementation stands out by leveraging Rust's type system and ownership model to ensure safety and correctness throughout the language processing pipeline, mitigating issues like memory errors or subtle data race conditions. This enables developers to focus on the semantic rules of their custom software rather than low-level plumbing intricacies.",
+  "ideaArticle": "Eglantine is an ambitious project aiming to let you play games designed for Nintendo's next-generation console, the Switch 2, not on the actual device, but directly on your computer. Stripped of its complex C++ code, this is essentially a digital mimic, attempting to replicate the internal workings of an unreleased gaming system. It's like building a virtual \"ghost\" console on your PC that *pretends* to be a Switch 2, theoretically allowing it to run games meant for that future hardware. The \"VERY experimental\" label underscores just how early and pioneering this technological endeavor is, attempting to predict and simulate hardware that doesn't even exist yet.\n\nThis project taps into a powerful mix of human curiosity and consumer desire. It appeals to tech enthusiasts and early adopters eager to peek behind the curtain of future technology, exploring what's next before it's officially available. It addresses the natural impatience many feel when anticipating a major product launch, offering a potential (albeit unstable) glimpse. Beyond that, it caters to those who might want to experience next-gen games without immediately purchasing new hardware, or developers keen to understand the architecture of an upcoming system. It’s about early access, experimentation, and pushing technological boundaries.",
   "dropDescriptions": [
-    "Instantly turn \"AI-looking\" UIs into sleek, professional designs with this powerful Claude skill.",
-    "An expansive, zero-dependency Chinese AI pose reference gallery with thousands of images for artists and creators.",
-    "Mika is your personal AI agent for Android, expertly navigating apps and the web to automate tasks.",
-    "Experience Zelda: Tears of the Kingdom natively on PC with this remarkable Windows/Linux recompilation project.",
-    "Dive into 244 unique pixel art effects, all bite-sized code, and even create your own with Claude.",
-    "Deconstruct any software to understand its inner workings, then craft your own projects with this guide."
+    "This Claude skill transforms messy, AI-generated UIs into sleek, professional designs effortlessly.",
+    "Find thousands of AI pose references in this extensive, localized gallery for artists and creators.",
+    "Get things done on Android! Mika is your on-device AI agent, operating apps and the web for you.",
+    "Bring Zelda: Tears of the Kingdom to native Windows/Linux PCs with this impressive static recompilation project.",
+    "Demystify software's inner workings, then craft your own with this guide to understanding and building.",
+    "Get 244 cool pixel art effects, each a tiny code snippet, plus a Claude skill to create more!"
   ],
-  "resurrectionArticle": "Dietrich Gebert's \"ponytail,\" released in 2026, was a groundbreaking prompt framework designed to make AI agents embody the \"laziest senior dev.\" Its core philosophy, \"the best code is the code you never wrote,\" quickly gained traction. In an early era of AI-driven development, where more code often seemed the goal, ponytail stood out by advocating for extreme pragmatism, rigorous re-use, and elegant minimalism. It became a viral sensation, showing that even with powerful AI, true efficiency often lies in the art of strategic omission and simplicity.\n\nToday, \"ponytail\" feels more prescient than ever. As AI agents have become ubiquitous, the sheer volume and complexity of automatically generated code have created challenges: spiraling maintenance costs, resource consumption, and cognitive overhead. Its resurgence reflects a critical need to temper AI’s generative exuberance. \"ponytail\" offers a timely reminder that strategic minimalism and the disciplined avoidance of superfluous code is paramount. It’s a call to curate AI output wisely, balancing its power with human insight for sustainable, efficient systems in an AI-saturated ecosystem.",
+  "resurrectionArticle": "Odysseus-dev/odysseus, launched in mid-2026, was a groundbreaking self-hosted AI workspace that rapidly garnered immense attention. As the AI world gravitated towards cloud services, Odysseus championed an integrated, on-premises environment for developing and managing AI models. Its promise of data sovereignty, unparalleled customizability, and local execution deeply resonated, quickly accumulating nearly 100,000 stars. It stood as a powerful counter-narrative, attracting early adopters who prioritized control and privacy over external dependencies in the nascent AI era.\n\nFollowing a period of quiet after its late-2026 update, Odysseus is experiencing a remarkable resurgence, fueled by evolving AI ecosystem realities. The rising costs of extensive cloud AI usage and intensifying data privacy concerns are making its self-hosted approach increasingly vital. Moreover, the simultaneous maturity of local inference frameworks and the emergence of highly performant open-source models runnable on consumer hardware have made autonomous AI deployment both practical and economically sensible. Odysseus now offers a robust solution for reclaiming control and efficiency in AI operations.",
   "numbers": {
     "repoCount": 25,
-    "totalStars": 62871,
-    "avgStars": 2515,
+    "totalStars": 66270,
+    "avgStars": 2651,
     "topLang": "JavaScript",
     "mostForked": {
       "full_name": "anhao/ai-pose-gallery-zh",
       "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
       "html_url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "stargazers_count": 5454,
-      "forks_count": 1391,
+      "stargazers_count": 5480,
+      "forks_count": 1394,
       "language": "TypeScript",
       "topics": [
         "ai-art",
