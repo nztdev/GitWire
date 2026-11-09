@@ -1,13 +1,13 @@
 {
   "edition": "097",
   "weekRange": "9 Nov – 15 Nov, 2026",
-  "generatedAt": "2026-11-09T16:34:26Z",
+  "generatedAt": "2026-11-09T23:29:34Z",
   "lead": {
     "full_name": "Minireel/HGhub",
     "description": "YellowFruit third-party client",
     "html_url": "https://github.com/Minireel/HGhub",
-    "stargazers_count": 5461,
-    "forks_count": 2046,
+    "stargazers_count": 5833,
+    "forks_count": 2135,
     "language": "TypeScript",
     "topics": [
       "android",
@@ -21,55 +21,44 @@
     "pushed_at": "2026-11-09T02:09:10Z"
   },
   "hoodRepo": {
-    "full_name": "JenkinWoo/sheeridVerify",
-    "description": null,
-    "html_url": "https://github.com/JenkinWoo/sheeridVerify",
-    "stargazers_count": 1920,
-    "forks_count": 1029,
-    "language": "JavaScript",
+    "full_name": "janestreet/agent_skills",
+    "description": "Agent skills",
+    "html_url": "https://github.com/janestreet/agent_skills",
+    "stargazers_count": 2014,
+    "forks_count": 111,
+    "language": null,
     "topics": [],
-    "created_at": "2026-11-06T09:28:09Z",
-    "pushed_at": "2026-11-06T09:54:37Z"
+    "created_at": "2026-11-03T16:50:21Z",
+    "pushed_at": "2026-11-03T18:14:13Z"
   },
   "ideaRepo": {
-    "full_name": "jhaizhou-ops/S2Arm",
-    "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。",
-    "html_url": "https://github.com/jhaizhou-ops/S2Arm",
-    "stargazers_count": 1594,
-    "forks_count": 325,
-    "language": "C#",
-    "topics": [
-      "apple-silicon",
-      "arm64",
-      "game-porting",
-      "ios",
-      "ipados",
-      "macos",
-      "metal",
-      "s2arm",
-      "static-recompilation",
-      "switch"
-    ],
-    "created_at": "2026-11-08T05:49:46Z",
-    "pushed_at": "2026-11-09T16:31:12Z"
+    "full_name": "sarpstar/cinecode",
+    "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
+    "html_url": "https://github.com/sarpstar/cinecode",
+    "stargazers_count": 1910,
+    "forks_count": 340,
+    "language": "Python",
+    "topics": [],
+    "created_at": "2026-11-03T10:08:16Z",
+    "pushed_at": "2026-11-03T15:21:18Z"
   },
   "freshDrops": [
     {
       "full_name": "NotRexed/Hookshot",
       "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
       "html_url": "https://github.com/NotRexed/Hookshot",
-      "stargazers_count": 4280,
-      "forks_count": 387,
+      "stargazers_count": 4916,
+      "forks_count": 427,
       "language": "C++",
       "topics": [],
       "created_at": "2026-11-05T12:18:58Z",
-      "pushed_at": "2026-11-09T16:17:19Z"
+      "pushed_at": "2026-11-09T23:20:51Z"
     },
     {
       "full_name": "KKKKhazix/agent-autoloop",
       "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
       "html_url": "https://github.com/KKKKhazix/agent-autoloop",
-      "stargazers_count": 4262,
+      "stargazers_count": 4270,
       "forks_count": 776,
       "language": "TypeScript",
       "topics": [
@@ -86,14 +75,14 @@
         "workflow"
       ],
       "created_at": "2026-11-03T08:02:11Z",
-      "pushed_at": "2026-11-09T13:08:03Z"
+      "pushed_at": "2026-11-09T20:44:09Z"
     },
     {
       "full_name": "govijr/terminal-mac",
       "description": "Entire MacOS running in your terminal.",
       "html_url": "https://github.com/govijr/terminal-mac",
-      "stargazers_count": 2483,
-      "forks_count": 171,
+      "stargazers_count": 2505,
+      "forks_count": 172,
       "language": "Swift",
       "topics": [
         "cli",
@@ -111,78 +100,81 @@
       "full_name": "tangerineturtle1/NX2navi",
       "description": null,
       "html_url": "https://github.com/tangerineturtle1/NX2navi",
-      "stargazers_count": 2077,
-      "forks_count": 115,
+      "stargazers_count": 2337,
+      "forks_count": 147,
       "language": "C",
       "topics": [],
       "created_at": "2026-11-07T10:01:23Z",
-      "pushed_at": "2026-11-09T16:30:26Z"
+      "pushed_at": "2026-11-09T23:16:48Z"
+    },
+    {
+      "full_name": "janestreet/agent_skills",
+      "description": "Agent skills",
+      "html_url": "https://github.com/janestreet/agent_skills",
+      "stargazers_count": 2014,
+      "forks_count": 111,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-11-03T16:50:21Z",
+      "pushed_at": "2026-11-03T18:14:13Z"
     },
     {
       "full_name": "JenkinWoo/sheeridVerify",
       "description": null,
       "html_url": "https://github.com/JenkinWoo/sheeridVerify",
-      "stargazers_count": 1920,
-      "forks_count": 1029,
+      "stargazers_count": 1926,
+      "forks_count": 1032,
       "language": "JavaScript",
       "topics": [],
       "created_at": "2026-11-06T09:28:09Z",
       "pushed_at": "2026-11-06T09:54:37Z"
-    },
-    {
-      "full_name": "sarpstar/cinecode",
-      "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
-      "html_url": "https://github.com/sarpstar/cinecode",
-      "stargazers_count": 1848,
-      "forks_count": 332,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-11-03T10:08:16Z",
-      "pushed_at": "2026-11-03T15:21:18Z"
     }
   ],
   "resurrection": {
-    "full_name": "storytold/photocraft",
-    "description": "PhotoCraft: An open-source photo editor written from scratch in pure Rust",
-    "html_url": "https://github.com/storytold/photocraft",
-    "stargazers_count": 78158,
-    "forks_count": 13829,
-    "language": "Rust",
+    "full_name": "Ebony-Vinyl/dsh-our-free-model",
+    "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
+    "html_url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
+    "stargazers_count": 67339,
+    "forks_count": 1813,
+    "language": "JavaScript",
     "topics": [
-      "art",
-      "image-editing",
-      "image-editing-software",
-      "image-editor",
-      "images",
-      "photo-editing",
-      "rust"
+      "ai-agents",
+      "deepseek",
+      "deepseek-harness",
+      "developer-tools",
+      "dsh",
+      "dsh-plugin",
+      "free-model",
+      "llm",
+      "model-provider",
+      "openai-compatible"
     ],
-    "created_at": "2026-09-30T13:37:48Z",
-    "pushed_at": "2026-11-09T16:30:11Z"
+    "created_at": "2026-09-24T16:17:19Z",
+    "pushed_at": "2026-11-09T03:18:51Z"
   },
-  "signalArticle": "This week, `Minireel/HGhub` has soared onto GitWire's radar, rapidly accumulating over 5,400 stars as a prominent third-party client for \"YellowFruit.\" Written in TypeScript, this project aims to provide an alternative interface for accessing YellowFruit's content, focusing on \"reels,\" movies, and drama, accessible across Android and Windows platforms. Its sudden surge in popularity underscores a significant current demand for community-driven solutions that offer fresh perspectives on established services, particularly those promising a \"free\" content experience outside of official channels.\n\nThe rise of `HGhub` isn't an isolated incident but rather a symptom of a broader digital trend: the continuous quest for enhanced user autonomy and diverse access points to popular content ecosystems. In an era dominated by proprietary platforms and tightly controlled user experiences, projects like `HGhub` emerge from a desire to bypass restrictions, add missing features, or simply offer a different, often open-source, approach to consuming media. It highlights the ongoing tension between platform owners seeking to maintain control and a user base eager for flexibility, customisation, and freedom from commercial constraints, especially when it involves \"free\" content access.\n\nFor developers, `HGhub` presents a compelling case study in reverse engineering, cross-platform client development using TypeScript, and the intricate challenges of interacting with large-scale APIs without official support. Tech watchers, meanwhile, should view its trajectory as a critical indicator of user sentiment and the enduring appeal of open-source alternatives to entrenched services. It signals where user demand is shifting, the power dynamics at play between users and content providers, and the ever-present legal and ethical tightrope walked by projects that seek to democratize access to copyrighted material. Understanding its success offers insights into the future of digital content consumption and platform ecosystems.",
-  "hoodArticle": "The `sheeridVerify` repository offers a client-side JavaScript library engineered to abstract the complex, multi-step integration of SheerID's identity verification service. Its architecture focuses on robustly managing external verification flows, either via dynamically embedded iframes utilizing `postMessage` for status updates, or by orchestrating user redirects and processing subsequent callbacks from SheerID's hosted pages. The library provides a cohesive, pragmatic API that encapsulates the entire session lifecycle, including dynamic parameter injection and outcome handling. This design pattern empowers developers to trigger verifications and reliably react to success or failure states without deep entanglement in SheerID's lower-level protocols, promoting a cleaner, decoupled frontend implementation.\n\nAt a code level, this library solves the specific problem of presenting a secure and user-friendly identity verification funnel without tightly coupling the application to SheerID's intricate API details. SheerID’s process often demands dynamic parameter generation, cross-domain communication challenges with iframes, and sophisticated state management across pending, approved, or denied outcomes. The library's implementation stands out by consolidating these complexities into a unified client-side interface. It intelligently manages the loading and interaction with the SheerID widget, normalizes various asynchronous responses into predictable callbacks (e.g., `onSuccess`, `onFailure`), and handles error propagation. This enables developers to focus on core application logic rather than the minutiae of third-party API integration, fostering a more maintainable and resilient codebase.",
-  "ideaArticle": "This project isn't about playing Switch games on your Apple devices through simple emulation. Instead, it ingeniously transforms them to run like native Apple apps. Imagine taking game code built for one specific console and expertly re-engineering it to directly utilize the powerful processors and graphics systems in your iPhone, iPad, or Mac. S2Arm essentially provides a sophisticated conversion service, making your favorite Switch titles feel genuinely at home on your Apple hardware, performing with the full potential as if they were designed for iOS or macOS from the very beginning.\n\nThis innovation addresses a clear desire for convenience and device flexibility. It speaks directly to Switch owners who wish to enjoy their game library across their existing Apple ecosystem—on an iPhone during a commute, an iPad at home, or a Mac for a larger display—without needing the physical Switch console. It also appeals to users who value Apple's hardware and seek to experience beloved Switch titles with enhanced performance and visual fidelity on devices they already own. For anyone aiming to merge their cherished Switch library with the seamless experience of their Apple devices, S2Arm offers a compelling, integrated solution.",
+  "signalArticle": "This week, `Minireel/HGhub` has shot to prominence on GitHub, rapidly accumulating over 5,800 stars and signaling a significant shift in user demand. Described as a \"YellowFruit third-party client,\" this TypeScript project for Android, Windows, and the web immediately grabs attention for its ambition to provide an alternative interface to a widely used content platform. Its rapid ascent underscores a palpable user appetite for new ways to engage with or consume video content, particularly in the \"reels\" and \"movie-web-app\" categories. The \"drama\" topic associated with the repository further hints at the keen interest and potential underlying tensions surrounding its emergence within the online content ecosystem.\n\nThis surge in popularity places `HGhub` firmly within the ongoing trend of community-driven alternatives to proprietary services. Users frequently seek more control, different feature sets, or simply a \"free\" and less restrictive experience than what official applications offer. The problem space it addresses is clear: how to provide flexible, multi-platform access to popular video content without the constraints or design choices of the primary provider. This repository's success is a microcosm of a larger movement, where open-source efforts empower users and developers to reimagine how we interact with the digital content ecosystems that dominate our daily lives.\n\nFor developers, `Minireel/HGhub` offers a compelling case study in reverse engineering and cross-platform TypeScript development, demonstrating how a passionate community can build robust alternatives. Its architecture and active contributions provide valuable learning opportunities in API interaction and user interface design for video-centric applications. For tech watchers, `HGhub` is a powerful barometer of user sentiment and platform discontent. It highlights the persistent cat-and-mouse game between content providers and the open-source community, serving as a potent reminder that user demand for flexibility and choice will always find an outlet, challenging the walled gardens of dominant tech giants.",
+  "hoodArticle": "The `janestreet/agent_skills` repository likely implements a sophisticated, functionally-oriented architecture for decomposing complex agent behaviors into discrete, composable \"skills.\" Its technical approach emphasizes strong typing and immutability, defining skills as parameterized computations or effectful operations within a well-defined execution context. This facilitates rigorous interface definitions, ensuring compatibility and predictable outcomes when skills are chained or orchestrated. The core innovation lies in systematically abstracting agent capabilities into reusable building blocks, moving beyond simple function calls to a more structured, type-safe framework that manages state transitions and asynchronous actions, crucial for maintaining correctness and agility in autonomous systems.\n\nAt a code level, this repository tackles the challenge of constructing reliable and extensible agents whose behavior must adapt dynamically, managing complex state and coordinating diverse capabilities without resorting to brittle imperative logic. The implementation distinguishes itself by likely employing advanced functional programming patterns, such as a monadic architecture, to explicitly model agent state changes, side effects, and asynchronous operations. This provides a declarative framework where skills are not merely functions, but sophisticated type-checked computations that compose predictably. The standout quality is its ability to elevate agent behavior definition to a robust, type-driven compositional system, enabling highly flexible agents while significantly reducing concurrency bugs and state inconsistencies.",
+  "ideaArticle": "At its heart, Cinecode is a fully automated film studio powered by artificial intelligence. Forget storyboarding, filming, animating, or editing; this project strips away the entire manual production process. You essentially give it a theme or a prompt, and an AI agent takes over completely. It crafts the script, designs every single visual frame purely through code, orchestrates the audio, and then compiles everything into a polished, ready-to-watch video file. It’s like having an entire production team – a writer, director, animator, and sound designer – all rolled into one intelligent system, capable of delivering a complete film with minimal human input beyond the initial idea.\n\nThis innovative approach addresses a massive need in today's content-hungry world: the relentless demand for video combined with the high cost and complexity of traditional production. Imagine a small business needing an engaging ad, a YouTuber wanting to produce explainers weekly, or an educator requiring animated lessons – all without the budget for a professional crew or the time to learn complex software. Cinecode offers a solution, democratizing video creation. It’s perfect for founders launching products who need quick, compelling explainers, marketers looking to scale video campaigns effortlessly, or even aspiring storytellers who lack the technical skills to bring their visions to life. It makes high-quality video production accessible to anyone with an idea.",
   "dropDescriptions": [
-    "Bringing classic Zelda: Ocarina of Time to Nintendo Switch 2, reimagined with powerful native performance.",
-    "Your CLI agent autonomously handles tasks in the background, only surfacing for your critical decisions.",
-    "Run a complete MacOS desktop environment, surprisingly, right inside your terminal window.",
-    "Unlock exciting new capabilities for your Nintendo Switch with this powerful, community-driven project.",
-    "Easily integrate secure identity verification for exclusive offers into your JavaScript applications.",
-    "Generate entire films, from script to sound, using an AI coding agent; just get your MP4!"
+    "Zelda: Ocarina of Time gets a native recompilation, preparing for a potential Nintendo Switch 2 debut.",
+    "Let your command-line agent work autonomously in the background, only interrupting you for key decisions.",
+    "Unbelievable but true: a full MacOS experience, running entirely within your terminal window.",
+    "Uncover the secrets of NX2navi, a popular C project shrouded in mystery, with no description provided.",
+    "Explore \"agent skills\" from Jane Street, a fascinating project likely driving sophisticated AI capabilities.",
+    "Explore sheeridVerify, a popular JavaScript project with no description, potentially offering powerful verification capabilities."
   ],
-  "resurrectionArticle": "PhotoCraft burst onto the scene in late 2026, a monumental, open-source photo editor crafted in pure Rust from scratch. It immediately captured the community’s imagination, showcasing Rust's high-performance desktop potential and promising a truly open alternative to proprietary creative suites. Its immense star count in such a short span reflected a palpable desire for powerful, memory-safe tools free from corporate silos, even if its early abandonment left its ultimate potential unrealized.\n\nNow, almost two years later, PhotoCraft is inexplicably buzzing again, fueled by profound shifts in the tech landscape. The Rust GUI ecosystem has matured dramatically, making its complex interface vision far more feasible. Crucially, surging demand for local-first, privacy-respecting applications, alongside advancements in Rust-native AI/ML for image processing, now positions PhotoCraft's robust core as an ideal foundation. Developers are re-evaluating its inherent stability and performance, seeing it as a powerful platform for integrating next-generation creative features.",
+  "resurrectionArticle": "Ebony-Vinyl's `dsh-our-free-model` repository was nothing short of revolutionary upon its 2026 release. This `dsh` plugin delivered completely free, unlimited access to frontier AI models like DeepSeek V4.1 Flash and Kimi K3—astonishingly, without any logins, sign-ups, or API keys. Its original significance was immense, democratizing advanced AI capabilities for countless developers and enthusiasts who previously faced prohibitive financial or technical barriers, quickly becoming a celebrated symbol of open access. Its ability to bypass paywalls and data collection hurdles made it an instant, widely-starred favorite.\n\nThe current resurgence of `dsh-our-free-model` reflects a notable shift in the AI landscape. With today's ecosystem dominated by escalating API costs, aggressive monetization, and stringent usage policies for leading models, this older repository is gaining renewed attention. While not featuring the absolute newest iterations, the proven quality of its models, paired with truly free and unlimited access, offers vital relief. This renewed focus underscores a strong community demand for accessible, private AI tools, free from corporate control, making its original principled stand relevant once more.",
   "numbers": {
     "repoCount": 25,
-    "totalStars": 44049,
-    "avgStars": 1762,
+    "totalStars": 47227,
+    "avgStars": 1889,
     "topLang": "Python",
     "mostForked": {
       "full_name": "Minireel/HGhub",
       "description": "YellowFruit third-party client",
       "html_url": "https://github.com/Minireel/HGhub",
-      "stargazers_count": 5461,
-      "forks_count": 2046,
+      "stargazers_count": 5833,
+      "forks_count": 2135,
       "language": "TypeScript",
       "topics": [
         "android",
